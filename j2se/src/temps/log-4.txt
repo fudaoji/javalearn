@@ -1,0 +1,155 @@
+oonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:07:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:11:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:15:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:36:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:42:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:42:42+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=f838d7001b8f92fc58efd7da8f79e70c263eb450&timestamp=1575510168&nonce=417998037&openid=o4sorxGcHqhI6M8pUvFs8krRDkOE
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [eKhuTa0168e508]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:42:49+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=b55564f8fa6d092dd93495f50b9c361c335b9ef4&timestamp=1575510174&nonce=1167641412&openid=o4sorxGcHqhI6M8pUvFs8krRDkOE
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [i1q5qa01744809]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:42:50+08:00 ] 36.249.147.55 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=001UA5sf0CFClt1QK4tf0ebesf0UA5sg&state=9118d62147cc1dc717771ee7606fee30
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: UecFFXyMe-l0Upba ]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:50:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:29:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:35:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:38:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [KP04874104]
+---------------------------------------------------------------
+[ 2019-12-05T10:41:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:02:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [09433954]
+---------------------------------------------------------------
+[ 2019-12-05T11:03:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BTUBRa09874108]
+---------------------------------------------------------------
+[ 2019-12-05T11:06:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:42:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:48:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:52:14+08:00 ] 36.110.199.169 GET www.moonboo.cn/index/mail_list/student?search_key=%E9%99%88%E5%90%9B%E8%AF%BA
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T12:18:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:18:31+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:18:51+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:19:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:19:26+08:00 ] 140.243.232.195 POST www.moonboo.cn/weixin/group_chat_api/getManagerInfoPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: 未匹配数据
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 657行, 调用类 方法: logger, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 758行, 调用类app\weixin\helper\GroupChatApiHelper 方法: getManageInfoPostValid, 参数: array (
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: getManagerInfoPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]未匹配数据
+---------------------------------------------------------------
+[ 2019-12-05T12:19:29+08:00 ] 140.243.232.195 POST www.moonboo.cn/weixin/group_chat_api/getManagerInfoPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: 未匹配数据
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 657行, 调用类 方法: logger, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 758行, 调用类app\weixin\helper\GroupChatApiHelper 方法: getManageInfoPostValid, 参数: array (
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: getManagerInfoPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]未匹配数据
+---------------------------------------------------------------
+[ 2019-12-05T12:21:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [6QceXa06808672]
+---------------------------------------------------------------
+[ 2019-12-05T12:22:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [RCh0Ma07288672]
+---------------------------------------------------------------
+[ 2019-12-05T12:22:28+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ error ] [8]Array to string conversion
+---------------------------------------------------------------
+[ 2019-12-05T12:22:46+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: id非法
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 276行, 调用类 方法: logger, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 405行, 调用类app\weixin\helper\GroupChatApiHelper 方法: delGroupUserPostValid, 参数: array (
+  0 => 227,
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: delGroupUserPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]id非法
+---------------------------------------------------------------
+[ 2019-12-05T12:22:50+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: id非法
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChat

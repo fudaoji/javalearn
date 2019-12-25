@@ -1,0 +1,128 @@
+ApiHelper.php 276行, 调用类 方法: logger, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 405行, 调用类app\weixin\helper\GroupChatApiHelper 方法: delGroupUserPostValid, 参数: array (
+  0 => 227,
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: delGroupUserPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]id非法
+---------------------------------------------------------------
+[ 2019-12-05T12:27:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vw00304119]
+---------------------------------------------------------------
+[ 2019-12-05T12:28:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:29:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:30:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:31:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:31:14+08:00 ] 120.36.214.251 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/227.html?code=0210Jqew0ZUbqc1XQ6fw0uGrew00Jqe9&state=2ddd103e0b2f471fa544c56fa4a5009a
+[ error ] ErrorCode: 4500; ErrorMsg: httpGet url failed: E502
+---------------------------------------------------------------
+[ 2019-12-05T12:32:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:32:12+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=01788ef85d6757be3c3ce922ea687a4b39645c0d&timestamp=1575520338&nonce=691649881&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcF1h3MRa-zbGZOA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:16+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=631c09b272b8acea19bb8d2e6f33c81769bf96d2&timestamp=1575520342&nonce=173084549&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFCQaLRa-fNOKHa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:29+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=433ad1a9eefea30d596c18b4071ae37956f0fe8b&timestamp=1575520355&nonce=1068829205&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFQj3MRa-uugfGa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:40+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=03b1fd61cdbec8b5f893ea7265dfe673edd97131&timestamp=1575520366&nonce=119838311&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFTraLRa-dYH38!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:17+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=893a7ff409e73f1cf00862e60be283ca47d6ae9b&timestamp=1575521002&nonce=922251784&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFqfyFe-5ONXaA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:19+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=068fab619b78c807a323cbd6978cee81ac82baaf&timestamp=1575521005&nonce=1333743228&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFRzmoRa-70vglA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:23+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=a15a07e7072401c050b017bbc3fdb8810d7f9e5d&timestamp=1575521009&nonce=187390932&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFigaCe-iYDcpa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:25+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=127d027d2c245a74d151373ecbf6a07e2cc980ea&timestamp=1575521011&nonce=554857165&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFz2Hae-4YddXa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:42+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=ab9a4cc60fdbbad7d70dac2f5ad7f22397349fd7&timestamp=1575521028&nonce=952946323&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFo8yFe-63zAca!]
+---------------------------------------------------------------
+[ 2019-12-05T12:44:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:46:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [1czAGa01683942]
+---------------------------------------------------------------
+[ 2019-12-05T12:48:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:59:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:00:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:01:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:03:18+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=af08e1b994d152e9e5ec6a4621e628b27479ba35&timestamp=1575522204&nonce=656193101&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [bgcFSH3MRa-gfWAra!]
+---------------------------------------------------------------
+[ 2019-12-05T13:04:39+08:00 ] 42.156.138.14 GET www.moonboo.cn/index/index/help/id/7/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T13:30:23+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:24+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:28+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:28+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:45:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T14:23:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T14:39:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [SHRKeA09503924]
+---------------------------------------------------------------
+[ 2019-12-05T14:40:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JGm6Ma0009st20]
+---------------------------------------------------------------
+[ 2019-12-05T14:42:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [u0k5601343946]
+---------------------------------------------------------------
+[ 2019-12-05T14:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.baHca01873943]
+---------------------------------------------------------------
+[ 2019-12-05T14:44:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sBbfda02492277]
+---------------------------------------------------------------
+[ 2019-12-05T14:45:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pdtmbA0311shc1]
+---------------------------------------------------------------
+[ 2019-12-05T14:45:49+08:00 ] 101.89.29.92 GET www.moonboo.cn/index/mail_list/teacherchangeclass
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:45:53+08:00 ] 101.91.62.99 

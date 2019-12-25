@@ -1,0 +1,117 @@
+eLdtma06284106]
+---------------------------------------------------------------
+[ 2019-12-05T17:38:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ox5Zpa06883116]
+---------------------------------------------------------------
+[ 2019-12-05T17:38:15+08:00 ] 223.104.49.6 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54807,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1910\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e00\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4eca\u5929\u4f5c\u4e1a","keyword2":"2019-12-05 17:38","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u51af\u4f1a\u82f1"}
+---------------------------------------------------------------
+[ 2019-12-05T17:38:15+08:00 ] 223.104.49.6 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54808,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1910\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e00\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4eca\u5929\u4f5c\u4e1a","keyword2":"2019-12-05 17:38","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u51af\u4f1a\u82f1"}
+---------------------------------------------------------------
+[ 2019-12-05T17:40:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [EWXd8a08188672]
+---------------------------------------------------------------
+[ 2019-12-05T17:41:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ZtJ2KA08674119]
+---------------------------------------------------------------
+[ 2019-12-05T17:42:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cyTwja09274119]
+---------------------------------------------------------------
+[ 2019-12-05T17:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UDDBMA09873952]
+---------------------------------------------------------------
+[ 2019-12-05T17:44:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [oGoOGa00534113]
+---------------------------------------------------------------
+[ 2019-12-05T17:45:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [zeoOlA01104128]
+---------------------------------------------------------------
+[ 2019-12-05T17:46:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [A61aBa01723943]
+---------------------------------------------------------------
+[ 2019-12-05T17:47:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [rchjya02328651]
+---------------------------------------------------------------
+[ 2019-12-05T17:48:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YK1LuA02874113]
+---------------------------------------------------------------
+[ 2019-12-05T17:49:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0_RQxa03493954]
+---------------------------------------------------------------
+[ 2019-12-05T17:50:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [p5G04083951]
+---------------------------------------------------------------
+[ 2019-12-05T17:51:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vnJRva04674126]
+---------------------------------------------------------------
+[ 2019-12-05T17:52:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [P3ldcA05294129]
+---------------------------------------------------------------
+[ 2019-12-05T17:52:53+08:00 ] 223.104.49.106 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54814,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1911\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e8c\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4f5c\u4e1a","keyword2":"2019-12-05 17:52","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u9648\u9526\u6995"}
+---------------------------------------------------------------
+[ 2019-12-05T17:52:53+08:00 ] 223.104.49.106 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54811,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1911\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e8c\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4f5c\u4e1a","keyword2":"2019-12-05 17:52","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u9648\u9526\u6995"}
+---------------------------------------------------------------
+[ 2019-12-05T17:53:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [5mPhjA0591shc2]
+---------------------------------------------------------------
+[ 2019-12-05T17:57:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [SSM740845shc1]
+---------------------------------------------------------------
+[ 2019-12-05T17:58:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [LW8gDa0887shc2]
+---------------------------------------------------------------
+[ 2019-12-05T17:59:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [2EECmA09545508]
+---------------------------------------------------------------
+[ 2019-12-05T18:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [uPYVrA00073929]
+---------------------------------------------------------------
+[ 2019-12-05T18:01:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [V.E9xa00674122]
+---------------------------------------------------------------
+[ 2019-12-05T18:01:45+08:00 ] 180.88.83.217 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长罗晓艳无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T18:02:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Wgf3Sa01323942]
+---------------------------------------------------------------
+[ 2019-12-05T18:03:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [R5tJEA01883114]
+---------------------------------------------------------------
+[ 2019-12-05T18:04:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Huz9iA02493924]
+---------------------------------------------------------------
+[ 2019-12-05T18:05:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HaRL3a03083950]
+---------------------------------------------------------------
+[ 2019-12-05T18:06:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sRJIwA03684121]
+---------------------------------------------------------------
+[ 2019-12-05T18:07:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UH7.aA04283934]
+---------------------------------------------------------------
+[ 2019-12-05T18:08:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JjJ.HA04873114]
+---------------------------------------------------------------
+[ 2019-12-05T18:09:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [yqCZlA05484104]
+---------------------------------------------------------------
+[ 2019-12-05T18:11:18+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4c96606842066]
+---------------------------------------------------------------
+[ 2019-12-05T18:14:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cyRIgA08654963]
+---------------------------------------------------------------
+[ 2019-12-05T18:15:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [s8TOFA09094107]
+---------------------------------------------------------------
+[ 2019-12-05T18:16:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [96gC409688648]
+---------------------------------------------------------------
+[ 2019-12-05T18:17:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Nt.IHA00272277]
+---------------------------------------------------------------
+[ 2019-12-05T18:18:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNo

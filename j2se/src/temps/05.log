@@ -1,0 +1,1949 @@
+---------------------------------------------------------------
+[ 2019-12-05T00:13:01+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/3/mid/3.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:01+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/10/mid/3.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:01+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/11/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:02+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/9/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:02+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/8/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:02+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/7/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:02+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/12/mid/4.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:13:02+08:00 ] 110.87.15.130 GET www.moonboo.cn/index/index/help/id/6/mid/4.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:45+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/11/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:45+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/9/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:45+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/8/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:45+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/7/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:46+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/10/mid/3.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:46+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/3/mid/3.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:46+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/12/mid/4.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T00:15:46+08:00 ] 110.87.15.130 GET moonboo.cn/index/index/help/id/6/mid/4.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T01:14:17+08:00 ] 223.104.49.161 POST www.moonboo.cn/weixin/upload/pictureAiPost
+[ log ] 请求图片合法性接口出错："Undefined index: data"
+---------------------------------------------------------------
+[ 2019-12-05T01:39:48+08:00 ] 46.229.168.141 GET www.moonboo.cn/index/index/help/id/7/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T07:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:21:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:26:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:26:53+08:00 ] 106.122.217.254 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长叶慧翔无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T07:27:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:28:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:29:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:31:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T07:31:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:32:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:35:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:38:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:39:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:41:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:42:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:43:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:44:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:45:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T07:45:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:46:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T07:46:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:47:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:48:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:49:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:50:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:51:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:52:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:53:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:54:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:55:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:56:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:57:15+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T07:57:22+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:58:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T07:59:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:00:22+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:00:22+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:02:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:03:13+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:04:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:05:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:05:57+08:00 ] 120.42.54.26 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长陈舒畅无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:06:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:07:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:07:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:08:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:08:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:09:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:09:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:10:44+08:00 ] 121.207.174.189 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长郑辉无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:11:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:12:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:12:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:12:41+08:00 ] 27.154.22.97 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长钟南群无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:13:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:13:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:14:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:14:24+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:15:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:15:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:16:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:17:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:17:30+08:00 ] 120.42.54.26 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长吴鑫宇爸爸无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:18:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:19:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [xXJKaA01494114]
+---------------------------------------------------------------
+[ 2019-12-05T08:20:22+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:21:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:22:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:23:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:23:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:23:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:24:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:24:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:24:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:25:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:25:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:26:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:27:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:28:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:29:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:29:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:29:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:30:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:30:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:31:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:31:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:32:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:32:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:32:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:33:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:33:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:33:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:34:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:34:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:34:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:35:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:36:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:37:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:37:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:38:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:38:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:38:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:39:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:40:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T08:40:11+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:41:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:42:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:42:50+08:00 ] 27.154.251.111 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长陈诗乐无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:44:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:45:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:46:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:47:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:48:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:48:39+08:00 ] 180.88.83.217 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长宋庆无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:49:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:49:32+08:00 ] 27.154.251.111 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长鲍恤霞无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T08:50:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:51:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:52:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:54:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:57:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:58:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T08:59:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:00:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:01:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:04:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:07:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:11:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:15:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:36:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:42:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T09:42:42+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=f838d7001b8f92fc58efd7da8f79e70c263eb450&timestamp=1575510168&nonce=417998037&openid=o4sorxGcHqhI6M8pUvFs8krRDkOE
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [eKhuTa0168e508]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:42:49+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=b55564f8fa6d092dd93495f50b9c361c335b9ef4&timestamp=1575510174&nonce=1167641412&openid=o4sorxGcHqhI6M8pUvFs8krRDkOE
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [i1q5qa01744809]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:42:50+08:00 ] 36.249.147.55 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=001UA5sf0CFClt1QK4tf0ebesf0UA5sg&state=9118d62147cc1dc717771ee7606fee30
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: UecFFXyMe-l0Upba ]"}
+---------------------------------------------------------------
+[ 2019-12-05T09:50:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:29:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:35:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T10:38:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [KP04874104]
+---------------------------------------------------------------
+[ 2019-12-05T10:41:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:02:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [09433954]
+---------------------------------------------------------------
+[ 2019-12-05T11:03:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BTUBRa09874108]
+---------------------------------------------------------------
+[ 2019-12-05T11:06:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:42:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:48:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T11:52:14+08:00 ] 36.110.199.169 GET www.moonboo.cn/index/mail_list/student?search_key=%E9%99%88%E5%90%9B%E8%AF%BA
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T12:18:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:18:31+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:18:51+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:19:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T12:19:26+08:00 ] 140.243.232.195 POST www.moonboo.cn/weixin/group_chat_api/getManagerInfoPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: 未匹配数据
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 657行, 调用类 方法: logger, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 758行, 调用类app\weixin\helper\GroupChatApiHelper 方法: getManageInfoPostValid, 参数: array (
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: getManagerInfoPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]未匹配数据
+---------------------------------------------------------------
+[ 2019-12-05T12:19:29+08:00 ] 140.243.232.195 POST www.moonboo.cn/weixin/group_chat_api/getManagerInfoPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: 未匹配数据
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 657行, 调用类 方法: logger, 参数: array (
+  0 => '未匹配数据',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 758行, 调用类app\weixin\helper\GroupChatApiHelper 方法: getManageInfoPostValid, 参数: array (
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: getManagerInfoPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]未匹配数据
+---------------------------------------------------------------
+[ 2019-12-05T12:21:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [6QceXa06808672]
+---------------------------------------------------------------
+[ 2019-12-05T12:22:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [RCh0Ma07288672]
+---------------------------------------------------------------
+[ 2019-12-05T12:22:28+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ error ] [8]Array to string conversion
+---------------------------------------------------------------
+[ 2019-12-05T12:22:46+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: id非法
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 276行, 调用类 方法: logger, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 405行, 调用类app\weixin\helper\GroupChatApiHelper 方法: delGroupUserPostValid, 参数: array (
+  0 => 227,
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: delGroupUserPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]id非法
+---------------------------------------------------------------
+[ 2019-12-05T12:22:50+08:00 ] 211.97.131.128 POST www.moonboo.cn/weixin/group_chat_api/delGroupUserPost
+[ 2002 ] ErrorCode: 2002; ErrorMsg: id非法
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/helper/GroupChatApiHelper.php 276行, 调用类 方法: logger, 参数: array (
+  0 => 'id非法',
+  1 => 2002,
+)
+/mydata/www/moonboo/application/weixin/controller/GroupChatApi.php 405行, 调用类app\weixin\helper\GroupChatApiHelper 方法: delGroupUserPostValid, 参数: array (
+  0 => 227,
+)
+ 行, 调用类app\weixin\controller\GroupChatApi 方法: delGroupUserPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2002]id非法
+---------------------------------------------------------------
+[ 2019-12-05T12:27:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vw00304119]
+---------------------------------------------------------------
+[ 2019-12-05T12:28:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:29:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:30:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:31:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:31:14+08:00 ] 120.36.214.251 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/227.html?code=0210Jqew0ZUbqc1XQ6fw0uGrew00Jqe9&state=2ddd103e0b2f471fa544c56fa4a5009a
+[ error ] ErrorCode: 4500; ErrorMsg: httpGet url failed: E502
+---------------------------------------------------------------
+[ 2019-12-05T12:32:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:32:12+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=01788ef85d6757be3c3ce922ea687a4b39645c0d&timestamp=1575520338&nonce=691649881&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcF1h3MRa-zbGZOA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:16+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=631c09b272b8acea19bb8d2e6f33c81769bf96d2&timestamp=1575520342&nonce=173084549&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFCQaLRa-fNOKHa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:29+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=433ad1a9eefea30d596c18b4071ae37956f0fe8b&timestamp=1575520355&nonce=1068829205&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFQj3MRa-uugfGa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:32:40+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=03b1fd61cdbec8b5f893ea7265dfe673edd97131&timestamp=1575520366&nonce=119838311&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [PFcFTraLRa-dYH38!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:17+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=893a7ff409e73f1cf00862e60be283ca47d6ae9b&timestamp=1575521002&nonce=922251784&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFqfyFe-5ONXaA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:19+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=068fab619b78c807a323cbd6978cee81ac82baaf&timestamp=1575521005&nonce=1333743228&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFRzmoRa-70vglA!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:23+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=a15a07e7072401c050b017bbc3fdb8810d7f9e5d&timestamp=1575521009&nonce=187390932&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFigaCe-iYDcpa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:25+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=127d027d2c245a74d151373ecbf6a07e2cc980ea&timestamp=1575521011&nonce=554857165&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFz2Hae-4YddXa!]
+---------------------------------------------------------------
+[ 2019-12-05T12:43:42+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/25?signature=ab9a4cc60fdbbad7d70dac2f5ad7f22397349fd7&timestamp=1575521028&nonce=952946323&openid=ojhUuwPFN9SWgChgW906IZLThs6E
+[ error ] [48001]api unauthorized hints: [vFcFo8yFe-63zAca!]
+---------------------------------------------------------------
+[ 2019-12-05T12:44:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:46:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [1czAGa01683942]
+---------------------------------------------------------------
+[ 2019-12-05T12:48:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T12:59:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:00:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:01:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T13:03:18+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/45?signature=af08e1b994d152e9e5ec6a4621e628b27479ba35&timestamp=1575522204&nonce=656193101&openid=oPfq6wiU5n4m__EFhI-0RJ6_OUp0
+[ error ] [48001]api unauthorized hints: [bgcFSH3MRa-gfWAra!]
+---------------------------------------------------------------
+[ 2019-12-05T13:04:39+08:00 ] 42.156.138.14 GET www.moonboo.cn/index/index/help/id/7/mid/2.html;
+[ error ] [8]A non well formed numeric value encountered
+---------------------------------------------------------------
+[ 2019-12-05T13:30:23+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:24+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:28+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:30:28+08:00 ] 223.104.49.165 GET www.moonboo.cn/weixin/class_group/groupchat/group_id/72/user_type/1/wid/244.html
+[ error ] [8]未定义变量: username
+---------------------------------------------------------------
+[ 2019-12-05T13:45:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T14:23:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T14:39:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [SHRKeA09503924]
+---------------------------------------------------------------
+[ 2019-12-05T14:40:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JGm6Ma0009st20]
+---------------------------------------------------------------
+[ 2019-12-05T14:42:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [u0k5601343946]
+---------------------------------------------------------------
+[ 2019-12-05T14:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.baHca01873943]
+---------------------------------------------------------------
+[ 2019-12-05T14:44:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sBbfda02492277]
+---------------------------------------------------------------
+[ 2019-12-05T14:45:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pdtmbA0311shc1]
+---------------------------------------------------------------
+[ 2019-12-05T14:45:49+08:00 ] 101.89.29.92 GET www.moonboo.cn/index/mail_list/teacherchangeclass
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:45:53+08:00 ] 101.91.62.99 GET www.moonboo.cn/index/mail_list/teacher
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:46:27+08:00 ] 101.91.60.106 GET www.moonboo.cn/index/mail_list/teacher?search_key=%E5%91%A8%E6%99%93%E5%80%A9
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:48:08+08:00 ] 101.227.139.164 GET www.moonboo.cn/index/mail_list/teacher?search_key=%E6%9E%97%E9%9C%B2
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:48:27+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [i2wcva05133935]
+---------------------------------------------------------------
+[ 2019-12-05T14:49:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [CP8C_05674106]
+---------------------------------------------------------------
+[ 2019-12-05T14:49:41+08:00 ] 110.87.118.100 GET www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:42+08:00 ] 110.87.118.100 HEAD www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:55+08:00 ] 110.87.118.100 GET www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:55+08:00 ] 110.87.118.100 HEAD www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:56+08:00 ] 110.87.118.100 GET www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:56+08:00 ] 110.87.118.100 HEAD www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:49:58+08:00 ] 61.129.6.227 GET www.moonboo.cn/index/mail_list/student
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:50:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3yOmja06088672]
+---------------------------------------------------------------
+[ 2019-12-05T14:50:31+08:00 ] 101.91.60.107 GET www.moonboo.cn/index/mail_list/student/do/export
+[ error ] [8]未定义数组索引: id
+---------------------------------------------------------------
+[ 2019-12-05T14:51:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4ebC06688648]
+---------------------------------------------------------------
+[ 2019-12-05T14:52:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Uz2krA07273954]
+---------------------------------------------------------------
+[ 2019-12-05T14:53:13+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [07998651]
+---------------------------------------------------------------
+[ 2019-12-05T14:54:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3zAogA08504125]
+---------------------------------------------------------------
+[ 2019-12-05T14:55:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [jcDy9a09134119]
+---------------------------------------------------------------
+[ 2019-12-05T14:56:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [DXeK1a09682066]
+---------------------------------------------------------------
+[ 2019-12-05T14:57:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4vb600273938]
+---------------------------------------------------------------
+[ 2019-12-05T14:58:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [PKDNna00884125]
+---------------------------------------------------------------
+[ 2019-12-05T14:59:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [CgqJ701483949]
+---------------------------------------------------------------
+[ 2019-12-05T15:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cFNtba02074124]
+---------------------------------------------------------------
+[ 2019-12-05T15:01:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ZCiHTA02751295]
+---------------------------------------------------------------
+[ 2019-12-05T15:02:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [MYh6JA03303929]
+---------------------------------------------------------------
+[ 2019-12-05T15:03:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [9jdCIA03984122]
+---------------------------------------------------------------
+[ 2019-12-05T15:04:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [tf5Isa04513113]
+---------------------------------------------------------------
+[ 2019-12-05T15:05:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [nkWbiA05073929]
+---------------------------------------------------------------
+[ 2019-12-05T15:06:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [05704125]
+---------------------------------------------------------------
+[ 2019-12-05T15:07:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [D06283113]
+---------------------------------------------------------------
+[ 2019-12-05T15:08:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [L5b7oa06883934]
+---------------------------------------------------------------
+[ 2019-12-05T15:09:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [MYDgWA07493934]
+---------------------------------------------------------------
+[ 2019-12-05T15:10:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ep2YeA08074119]
+---------------------------------------------------------------
+[ 2019-12-05T15:11:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vk_uTa08674100]
+---------------------------------------------------------------
+[ 2019-12-05T15:12:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [eY3J409294107]
+---------------------------------------------------------------
+[ 2019-12-05T15:13:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3ktE3a09873948]
+---------------------------------------------------------------
+[ 2019-12-05T15:14:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [duLxSa00474108]
+---------------------------------------------------------------
+[ 2019-12-05T15:15:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0112shc1]
+---------------------------------------------------------------
+[ 2019-12-05T15:16:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [68L25a01684120]
+---------------------------------------------------------------
+[ 2019-12-05T15:17:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [__09902343929]
+---------------------------------------------------------------
+[ 2019-12-05T15:18:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [zL12502883955]
+---------------------------------------------------------------
+[ 2019-12-05T15:19:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [2Y1XFA03478648]
+---------------------------------------------------------------
+[ 2019-12-05T15:20:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Ayl7Oa04074123]
+---------------------------------------------------------------
+[ 2019-12-05T15:21:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dHtv804671295]
+---------------------------------------------------------------
+[ 2019-12-05T15:22:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HmjbCA05274104]
+---------------------------------------------------------------
+[ 2019-12-05T15:23:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sO505903113]
+---------------------------------------------------------------
+[ 2019-12-05T15:24:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cCjT.a06493114]
+---------------------------------------------------------------
+[ 2019-12-05T15:25:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [LW_IUa07134122]
+---------------------------------------------------------------
+[ 2019-12-05T15:26:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ImKoTa07713935]
+---------------------------------------------------------------
+[ 2019-12-05T15:27:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [122_ga08274121]
+---------------------------------------------------------------
+[ 2019-12-05T15:28:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [mmIIkA08898694]
+---------------------------------------------------------------
+[ 2019-12-05T15:29:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JLr3kA09502277]
+---------------------------------------------------------------
+[ 2019-12-05T15:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Pf8fHa00083950]
+---------------------------------------------------------------
+[ 2019-12-05T15:31:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BZ00683955]
+---------------------------------------------------------------
+[ 2019-12-05T15:32:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [30GQbA01273942]
+---------------------------------------------------------------
+[ 2019-12-05T15:33:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YujUKa01953941]
+---------------------------------------------------------------
+[ 2019-12-05T15:34:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Af8iGa02533934]
+---------------------------------------------------------------
+[ 2019-12-05T15:35:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [E3hI4a03153955]
+---------------------------------------------------------------
+[ 2019-12-05T15:36:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.0p6.A03674127]
+---------------------------------------------------------------
+[ 2019-12-05T15:37:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [WYkVMA04294100]
+---------------------------------------------------------------
+[ 2019-12-05T15:38:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [j86lca04873935]
+---------------------------------------------------------------
+[ 2019-12-05T15:39:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [poF7da05478653]
+---------------------------------------------------------------
+[ 2019-12-05T15:40:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [CsUtFa06074100]
+---------------------------------------------------------------
+[ 2019-12-05T15:41:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [fPBkVA06693950]
+---------------------------------------------------------------
+[ 2019-12-05T15:42:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Q2DCla07283933]
+---------------------------------------------------------------
+[ 2019-12-05T15:43:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [aGfUOa07983955]
+---------------------------------------------------------------
+[ 2019-12-05T15:44:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [XZo9ba08653935]
+---------------------------------------------------------------
+[ 2019-12-05T15:45:25+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [q3SSEA0931shc1]
+---------------------------------------------------------------
+[ 2019-12-05T15:46:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [kHnw409714125]
+---------------------------------------------------------------
+[ 2019-12-05T15:47:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_c3C_a00294127]
+---------------------------------------------------------------
+[ 2019-12-05T15:48:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [jTflka00923938]
+---------------------------------------------------------------
+[ 2019-12-05T15:49:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [qhl4nA0149shc2]
+---------------------------------------------------------------
+[ 2019-12-05T15:50:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [y02074114]
+---------------------------------------------------------------
+[ 2019-12-05T15:51:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [8VVpja02804924]
+---------------------------------------------------------------
+[ 2019-12-05T15:52:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pno4Da03323952]
+---------------------------------------------------------------
+[ 2019-12-05T15:53:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [AnK9ra03904106]
+---------------------------------------------------------------
+[ 2019-12-05T15:54:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YmkYuA04472066]
+---------------------------------------------------------------
+[ 2019-12-05T15:55:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [qTLs9a05073114]
+---------------------------------------------------------------
+[ 2019-12-05T15:56:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [njeOQa05678641]
+---------------------------------------------------------------
+[ 2019-12-05T15:57:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [WCcy9a06302277]
+---------------------------------------------------------------
+[ 2019-12-05T15:58:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vj06913954]
+---------------------------------------------------------------
+[ 2019-12-05T15:59:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3E0747shc1]
+---------------------------------------------------------------
+[ 2019-12-05T16:00:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [a4C5aa08084107]
+---------------------------------------------------------------
+[ 2019-12-05T16:01:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [bEwQmA0868shc2]
+---------------------------------------------------------------
+[ 2019-12-05T16:02:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YNDXua09288630]
+---------------------------------------------------------------
+[ 2019-12-05T16:03:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HuFT709874104]
+---------------------------------------------------------------
+[ 2019-12-05T16:04:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [t6h0047st20]
+---------------------------------------------------------------
+[ 2019-12-05T16:05:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4MmNba01103948]
+---------------------------------------------------------------
+[ 2019-12-05T16:07:31+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [A6OtFA02574125]
+---------------------------------------------------------------
+[ 2019-12-05T16:08:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [bEEMja03078641]
+---------------------------------------------------------------
+[ 2019-12-05T16:09:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [G7wyLA03493929]
+---------------------------------------------------------------
+[ 2019-12-05T16:10:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [04083942]
+---------------------------------------------------------------
+[ 2019-12-05T16:11:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pN4hda0468shc1]
+---------------------------------------------------------------
+[ 2019-12-05T16:12:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [5w05284119]
+---------------------------------------------------------------
+[ 2019-12-05T16:12:08+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/132?signature=98c3e35c1ff7576fa9003b9f3e12d619f43fd3c2&timestamp=1575533534&nonce=716638196&openid=oCfYp00WqEjggq70xS7oKx-5r3C0
+[ error ] [48001]api unauthorized hints: [FHcFSraLRa-2l_JTA!]
+---------------------------------------------------------------
+[ 2019-12-05T16:12:10+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/132?signature=b355f6e63aacce1a3714cc69f159e3cd4b0ea3b5&timestamp=1575533535&nonce=305937384&openid=oCfYp00WqEjggq70xS7oKx-5r3C0
+[ error ] [48001]api unauthorized hints: [FHcF5WPfe-CP_C1a!]
+---------------------------------------------------------------
+[ 2019-12-05T16:13:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [1lD_Va05870500]
+---------------------------------------------------------------
+[ 2019-12-05T16:14:20+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [V0kcVA06668694]
+---------------------------------------------------------------
+[ 2019-12-05T16:15:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [G2TXwA07083945]
+---------------------------------------------------------------
+[ 2019-12-05T16:16:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [FRHscA07674106]
+---------------------------------------------------------------
+[ 2019-12-05T16:17:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [LZSWoA08293941]
+---------------------------------------------------------------
+[ 2019-12-05T16:18:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [P08904108]
+---------------------------------------------------------------
+[ 2019-12-05T16:19:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [oDN.09551295]
+---------------------------------------------------------------
+[ 2019-12-05T16:19:44+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/132?signature=9e955ae8bf26ad73c559d533a91197c556a025f0&timestamp=1575533990&nonce=108406946&openid=oCfYp00WqEjggq70xS7oKx-5r3C0
+[ error ] [48001]api unauthorized hints: [jHcFuQaLRa-6O9FIA!]
+---------------------------------------------------------------
+[ 2019-12-05T16:19:49+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/132?signature=7f6037ca5f447df8c7b6626d5d4347d63a870c8c&timestamp=1575533995&nonce=816341875&openid=oCfYp00WqEjggq70xS7oKx-5r3C0
+[ error ] [48001]api unauthorized hints: [jHcF7Z3Me-GgbsAA!]
+---------------------------------------------------------------
+[ 2019-12-05T16:19:54+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/132?signature=d58c992ec99665de704caa009759d58f1e39e8a6&timestamp=1575534000&nonce=577321289&openid=oCfYp00WqEjggq70xS7oKx-5r3C0
+[ error ] [48001]api unauthorized hints: [JHcFx_qce-JHggLA!]
+---------------------------------------------------------------
+[ 2019-12-05T16:20:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UJ00104924]
+---------------------------------------------------------------
+[ 2019-12-05T16:21:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [W2cSwa0068shc1]
+---------------------------------------------------------------
+[ 2019-12-05T16:22:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [5b.q801294128]
+---------------------------------------------------------------
+[ 2019-12-05T16:23:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [NTEmia01952277]
+---------------------------------------------------------------
+[ 2019-12-05T16:24:01+08:00 ] 27.154.22.97 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长钟南群无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T16:24:24+08:00 ] 120.42.54.26 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长吴鑫宇爸爸无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T16:26:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [paR_ha03804116]
+---------------------------------------------------------------
+[ 2019-12-05T16:27:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Tbs9.a04344102]
+---------------------------------------------------------------
+[ 2019-12-05T16:27:56+08:00 ] 223.104.49.27 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/235.html?code=071bdCV70aNkpF1L1cT70WwqV70bdCVv&state=23c9c53386e2aee8ddf4f75ec794bd82
+[ error ] [8]未定义数组索引: openid
+---------------------------------------------------------------
+[ 2019-12-05T16:28:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:30:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:31:26+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:33:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:33:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7guSva08013055]
+---------------------------------------------------------------
+[ 2019-12-05T16:34:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:34:21+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:35:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:35:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:36:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [rxIpka09720500]
+---------------------------------------------------------------
+[ 2019-12-05T16:36:52+08:00 ] 120.42.54.26 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长陈舒畅无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T16:37:14+08:00 ] 27.154.79.231 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长叶慧翔无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T16:37:15+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [spadVA00414121]
+---------------------------------------------------------------
+[ 2019-12-05T16:39:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:39:20+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HCSisA01663924]
+---------------------------------------------------------------
+[ 2019-12-05T16:40:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Yik0oa02078630]
+---------------------------------------------------------------
+[ 2019-12-05T16:41:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [s_QQMA02788694]
+---------------------------------------------------------------
+[ 2019-12-05T16:41:44+08:00 ] 183.252.48.173 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/71.html?code=061CkvlU1F947Z0JcBmU16OslU1Ckvl6&state=9e56a8340f30509b8449d07dd59c601e
+[ error ] ErrorCode: 0; ErrorMsg: 更新微信用户信息出错;
+---------------------------------------------------------------
+[ 2019-12-05T16:42:14+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [bJtYkA03398648]
+---------------------------------------------------------------
+[ 2019-12-05T16:43:11+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7vp_AA03972277]
+---------------------------------------------------------------
+[ 2019-12-05T16:44:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [8qFPWa0451st20]
+---------------------------------------------------------------
+[ 2019-12-05T16:45:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [hky1.a0511shb1]
+---------------------------------------------------------------
+[ 2019-12-05T16:46:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UA.IAa05754122]
+---------------------------------------------------------------
+[ 2019-12-05T16:47:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HrjMcA06274119]
+---------------------------------------------------------------
+[ 2019-12-05T16:47:58+08:00 ] 120.36.214.53 POST www.moonboo.cn/weixin/album_api/addAlbumPost
+[ error ] [8]未定义数组索引: class_id
+---------------------------------------------------------------
+[ 2019-12-05T16:48:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:48:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Ak4YAa06924125]
+---------------------------------------------------------------
+[ 2019-12-05T16:49:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:49:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UEXheA07524924]
+---------------------------------------------------------------
+[ 2019-12-05T16:50:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:50:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [KFiOxa08123941]
+---------------------------------------------------------------
+[ 2019-12-05T16:51:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7PDNca08764127]
+---------------------------------------------------------------
+[ 2019-12-05T16:52:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:52:11+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [09374122]
+---------------------------------------------------------------
+[ 2019-12-05T16:53:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:53:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:53:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [uAlg.A09903116]
+---------------------------------------------------------------
+[ 2019-12-05T16:54:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:54:10+08:00 ] 211.97.128.83 POST www.moonboo.cn/weixin/class_circle_api/albumPost
+[ 2001 ] ErrorCode: 2001; ErrorMsg: 参数错误
+[ log ] StackInfo:/mydata/www/moonboo/application/common.php 99行, 调用类ky\Logger 方法: setMsgAndCode, 参数: array (
+  0 => '参数错误',
+  1 => 2001,
+)
+/mydata/www/moonboo/application/weixin/helper/ClassCircleApiHelper.php 114行, 调用类 方法: logger, 参数: array (
+  0 => '参数错误',
+  1 => 2001,
+)
+/mydata/www/moonboo/application/weixin/controller/ClassCircleApi.php 99行, 调用类app\weixin\helper\ClassCircleApiHelper 方法: albumPostValid, 参数: array (
+)
+ 行, 调用类app\weixin\controller\ClassCircleApi 方法: albumPost, 参数: array (
+)
+/mydata/www/kyframework/tp5024/start.php 19行, 调用类think\App 方法: run, 参数: array (
+)
+/mydata/www/moonboo/public/index.php 19行, 调用类 方法: require, 参数: array (
+  0 => '/mydata/www/kyframework/tp5024/start.php',
+)
+[ error ] [2001]参数错误
+---------------------------------------------------------------
+[ 2019-12-05T16:54:15+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [DC94jA00614126]
+---------------------------------------------------------------
+[ 2019-12-05T16:55:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T16:55:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dDZTZa01084123]
+---------------------------------------------------------------
+[ 2019-12-05T16:56:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [NnyLia01834108]
+---------------------------------------------------------------
+[ 2019-12-05T16:58:17+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JRr03031295]
+---------------------------------------------------------------
+[ 2019-12-05T16:58:48+08:00 ] 121.51.66.26 POST www.moonboo.cn/weixin/api/index/id/123?signature=6382bfd51534c60f2362c12ea3300d41c097b01d&timestamp=1575536334&nonce=634553916&openid=o4sorxPNCIyTDFdOFyxSH0-K1gWI
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [BwPfca0334hb97]"}
+---------------------------------------------------------------
+[ 2019-12-05T16:58:49+08:00 ] 59.57.200.147 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0113eCQZ1c4vCT0xuJPZ1wKSQZ13eCQj&state=8f2dbcc92fd2f18a4c850db6cba12d19
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: 5HcFI6yFe-So0sOa ]"}
+---------------------------------------------------------------
+[ 2019-12-05T16:58:50+08:00 ] 59.57.200.147 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0113eCQZ1c4vCT0xuJPZ1wKSQZ13eCQj&state=8f2dbcc92fd2f18a4c850db6cba12d19
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: 5HcFeyXBe-ZokU4a ]"}
+---------------------------------------------------------------
+[ 2019-12-05T16:59:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [kXSLwA03513938]
+---------------------------------------------------------------
+[ 2019-12-05T17:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7if5va04073942]
+---------------------------------------------------------------
+[ 2019-12-05T17:01:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:01:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [jLmgdA04704126]
+---------------------------------------------------------------
+[ 2019-12-05T17:01:20+08:00 ] 27.154.22.97 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长陈思敏无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T17:02:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:02:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [GjpKoa05338630]
+---------------------------------------------------------------
+[ 2019-12-05T17:03:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [08b3uA05893954]
+---------------------------------------------------------------
+[ 2019-12-05T17:04:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [hS8x_06472066]
+---------------------------------------------------------------
+[ 2019-12-05T17:05:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [hN_gda07134129]
+---------------------------------------------------------------
+[ 2019-12-05T17:06:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [THqHja07694106]
+---------------------------------------------------------------
+[ 2019-12-05T17:07:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7uhN1a08333943]
+---------------------------------------------------------------
+[ 2019-12-05T17:08:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [n9a0na08943116]
+---------------------------------------------------------------
+[ 2019-12-05T17:08:16+08:00 ] 183.253.29.217 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/235.html?code=071ZGwJt0WDIzj1nKPLt0ZbIJt0ZGwJz&state=49e236e5040afdba9752d70f226750e8
+[ error ] [8]未定义数组索引: openid
+---------------------------------------------------------------
+[ 2019-12-05T17:09:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [K8mvpA0951shb1]
+---------------------------------------------------------------
+[ 2019-12-05T17:10:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:10:09+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [R_1_00153942]
+---------------------------------------------------------------
+[ 2019-12-05T17:11:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [WTgaya00703947]
+---------------------------------------------------------------
+[ 2019-12-05T17:12:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [d01294116]
+---------------------------------------------------------------
+[ 2019-12-05T17:13:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:13:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:13:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Y9O_ea01904113]
+---------------------------------------------------------------
+[ 2019-12-05T17:14:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [tm4sGA02474127]
+---------------------------------------------------------------
+[ 2019-12-05T17:15:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [TOAkva03104127]
+---------------------------------------------------------------
+[ 2019-12-05T17:15:26+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T17:16:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [RjW9vA03683952]
+---------------------------------------------------------------
+[ 2019-12-05T17:16:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T17:17:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:17:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [qI0wOa04304924]
+---------------------------------------------------------------
+[ 2019-12-05T17:17:10+08:00 ] 180.88.83.217 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长潘端红无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T17:18:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:18:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:18:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dFcy4a04914107]
+---------------------------------------------------------------
+[ 2019-12-05T17:19:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4L4dvA05503055]
+---------------------------------------------------------------
+[ 2019-12-05T17:20:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [NsYx5a06143936]
+---------------------------------------------------------------
+[ 2019-12-05T17:21:10+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.FIWoA06764125]
+---------------------------------------------------------------
+[ 2019-12-05T17:22:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Bdw6Ja07312277]
+---------------------------------------------------------------
+[ 2019-12-05T17:23:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:23:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7tjgLA07933945]
+---------------------------------------------------------------
+[ 2019-12-05T17:24:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Vr08544924]
+---------------------------------------------------------------
+[ 2019-12-05T17:25:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [J909093952]
+---------------------------------------------------------------
+[ 2019-12-05T17:26:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ktlkpa09784129]
+---------------------------------------------------------------
+[ 2019-12-05T17:27:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [DEJ8Ia00274129]
+---------------------------------------------------------------
+[ 2019-12-05T17:28:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [wy7nTa00873933]
+---------------------------------------------------------------
+[ 2019-12-05T17:29:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [O1Z0gA01503945]
+---------------------------------------------------------------
+[ 2019-12-05T17:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:30:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ log ] 未配置模板ID，请配置242
+---------------------------------------------------------------
+[ 2019-12-05T17:30:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pM2IDa02133924]
+---------------------------------------------------------------
+[ 2019-12-05T17:31:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UntlCa02673924]
+---------------------------------------------------------------
+[ 2019-12-05T17:32:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [8Dv8BA03340500]
+---------------------------------------------------------------
+[ 2019-12-05T17:33:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [TH0fNA03893929]
+---------------------------------------------------------------
+[ 2019-12-05T17:34:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ElNVuA04508648]
+---------------------------------------------------------------
+[ 2019-12-05T17:35:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.H2xNA05108648]
+---------------------------------------------------------------
+[ 2019-12-05T17:36:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cNG26a05688648]
+---------------------------------------------------------------
+[ 2019-12-05T17:37:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [eLdtma06284106]
+---------------------------------------------------------------
+[ 2019-12-05T17:38:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ox5Zpa06883116]
+---------------------------------------------------------------
+[ 2019-12-05T17:38:15+08:00 ] 223.104.49.6 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54807,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1910\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e00\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4eca\u5929\u4f5c\u4e1a","keyword2":"2019-12-05 17:38","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u51af\u4f1a\u82f1"}
+---------------------------------------------------------------
+[ 2019-12-05T17:38:15+08:00 ] 223.104.49.6 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54808,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1910\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e00\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4eca\u5929\u4f5c\u4e1a","keyword2":"2019-12-05 17:38","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u51af\u4f1a\u82f1"}
+---------------------------------------------------------------
+[ 2019-12-05T17:40:12+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [EWXd8a08188672]
+---------------------------------------------------------------
+[ 2019-12-05T17:41:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ZtJ2KA08674119]
+---------------------------------------------------------------
+[ 2019-12-05T17:42:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cyTwja09274119]
+---------------------------------------------------------------
+[ 2019-12-05T17:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UDDBMA09873952]
+---------------------------------------------------------------
+[ 2019-12-05T17:44:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [oGoOGa00534113]
+---------------------------------------------------------------
+[ 2019-12-05T17:45:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [zeoOlA01104128]
+---------------------------------------------------------------
+[ 2019-12-05T17:46:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [A61aBa01723943]
+---------------------------------------------------------------
+[ 2019-12-05T17:47:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [rchjya02328651]
+---------------------------------------------------------------
+[ 2019-12-05T17:48:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YK1LuA02874113]
+---------------------------------------------------------------
+[ 2019-12-05T17:49:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0_RQxa03493954]
+---------------------------------------------------------------
+[ 2019-12-05T17:50:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [p5G04083951]
+---------------------------------------------------------------
+[ 2019-12-05T17:51:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vnJRva04674126]
+---------------------------------------------------------------
+[ 2019-12-05T17:52:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [P3ldcA05294129]
+---------------------------------------------------------------
+[ 2019-12-05T17:52:53+08:00 ] 223.104.49.106 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54814,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1911\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e8c\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4f5c\u4e1a","keyword2":"2019-12-05 17:52","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u9648\u9526\u6995"}
+---------------------------------------------------------------
+[ 2019-12-05T17:52:53+08:00 ] 223.104.49.106 POST www.moonboo.cn/weixin/announcement_api/addNoticePost
+[ log ] {"do":"notice_service","touser":54811,"url":"http:\/\/www.moonboo.cn\/weixin\/class_group\/announcedetail\/announce_id\/1911\/wid\/270.html","first":"\u8001\u5e08\u60a8\u597d\uff0c\u5927\u4e8c\u73ed\u6709\u65b0\u7684\u73ed\u7ea7\u516c\u544a\u901a\u77e5","keyword1":"\u4f5c\u4e1a","keyword2":"2019-12-05 17:52","keyword3":"\u5df2\u5728\u73ed\u7ea7\u5708\u53d1\u5e03","remark":"\u53d1\u5e03\u4eba\uff1a\u9648\u9526\u6995"}
+---------------------------------------------------------------
+[ 2019-12-05T17:53:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [5mPhjA0591shc2]
+---------------------------------------------------------------
+[ 2019-12-05T17:57:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [SSM740845shc1]
+---------------------------------------------------------------
+[ 2019-12-05T17:58:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [LW8gDa0887shc2]
+---------------------------------------------------------------
+[ 2019-12-05T17:59:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [2EECmA09545508]
+---------------------------------------------------------------
+[ 2019-12-05T18:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [uPYVrA00073929]
+---------------------------------------------------------------
+[ 2019-12-05T18:01:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [V.E9xa00674122]
+---------------------------------------------------------------
+[ 2019-12-05T18:01:45+08:00 ] 180.88.83.217 POST www.moonboo.cn/api/zs/noticeClaimPost
+[ log ] 此家长罗晓艳无正式入园的孩子因此不发送消息
+---------------------------------------------------------------
+[ 2019-12-05T18:02:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Wgf3Sa01323942]
+---------------------------------------------------------------
+[ 2019-12-05T18:03:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [R5tJEA01883114]
+---------------------------------------------------------------
+[ 2019-12-05T18:04:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Huz9iA02493924]
+---------------------------------------------------------------
+[ 2019-12-05T18:05:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HaRL3a03083950]
+---------------------------------------------------------------
+[ 2019-12-05T18:06:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sRJIwA03684121]
+---------------------------------------------------------------
+[ 2019-12-05T18:07:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [UH7.aA04283934]
+---------------------------------------------------------------
+[ 2019-12-05T18:08:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JjJ.HA04873114]
+---------------------------------------------------------------
+[ 2019-12-05T18:09:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [yqCZlA05484104]
+---------------------------------------------------------------
+[ 2019-12-05T18:11:18+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [4c96606842066]
+---------------------------------------------------------------
+[ 2019-12-05T18:14:19+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cyRIgA08654963]
+---------------------------------------------------------------
+[ 2019-12-05T18:15:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [s8TOFA09094107]
+---------------------------------------------------------------
+[ 2019-12-05T18:16:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [96gC409688648]
+---------------------------------------------------------------
+[ 2019-12-05T18:17:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Nt.IHA00272277]
+---------------------------------------------------------------
+[ 2019-12-05T18:18:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Hw6emA00883929]
+---------------------------------------------------------------
+[ 2019-12-05T18:19:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [GtbdmA01473951]
+---------------------------------------------------------------
+[ 2019-12-05T18:20:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [H5_dkA02082277]
+---------------------------------------------------------------
+[ 2019-12-05T18:21:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JEr0KA02683948]
+---------------------------------------------------------------
+[ 2019-12-05T18:22:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BNKRqa03298651]
+---------------------------------------------------------------
+[ 2019-12-05T18:23:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [T63xOa03874127]
+---------------------------------------------------------------
+[ 2019-12-05T18:24:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [L8qzdA04513924]
+---------------------------------------------------------------
+[ 2019-12-05T18:25:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [K5fo05104122]
+---------------------------------------------------------------
+[ 2019-12-05T18:26:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.za_bA05688648]
+---------------------------------------------------------------
+[ 2019-12-05T18:27:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [uWKJka06278648]
+---------------------------------------------------------------
+[ 2019-12-05T18:28:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3t74ha06873943]
+---------------------------------------------------------------
+[ 2019-12-05T18:29:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_uL1rA07474120]
+---------------------------------------------------------------
+[ 2019-12-05T18:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [R87e0a08084105]
+---------------------------------------------------------------
+[ 2019-12-05T18:31:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7dwrLa08684124]
+---------------------------------------------------------------
+[ 2019-12-05T18:32:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [09273955]
+---------------------------------------------------------------
+[ 2019-12-05T18:33:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [noEDOa0987shc1]
+---------------------------------------------------------------
+[ 2019-12-05T18:34:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [iX00478641]
+---------------------------------------------------------------
+[ 2019-12-05T18:35:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [v01078648]
+---------------------------------------------------------------
+[ 2019-12-05T18:36:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [FPWjsA0170shc2]
+---------------------------------------------------------------
+[ 2019-12-05T18:37:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [kgi.Ja02274127]
+---------------------------------------------------------------
+[ 2019-12-05T18:38:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [iVqpqa02891295]
+---------------------------------------------------------------
+[ 2019-12-05T18:39:08+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pQHB3a03534100]
+---------------------------------------------------------------
+[ 2019-12-05T18:40:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [l8uc704103055]
+---------------------------------------------------------------
+[ 2019-12-05T18:41:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BuatUA04673942]
+---------------------------------------------------------------
+[ 2019-12-05T18:42:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [GLRS4a05272066]
+---------------------------------------------------------------
+[ 2019-12-05T18:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [YL8j_05878653]
+---------------------------------------------------------------
+[ 2019-12-05T18:44:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [xw4MGA06503936]
+---------------------------------------------------------------
+[ 2019-12-05T18:45:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [207124102]
+---------------------------------------------------------------
+[ 2019-12-05T18:46:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ezHwNA07683936]
+---------------------------------------------------------------
+[ 2019-12-05T18:47:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [QXVHIA0828shc1]
+---------------------------------------------------------------
+[ 2019-12-05T18:48:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [V.w1Ea08894122]
+---------------------------------------------------------------
+[ 2019-12-05T18:49:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [gDYJXa09494128]
+---------------------------------------------------------------
+[ 2019-12-05T18:50:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [gPYZna00074963]
+---------------------------------------------------------------
+[ 2019-12-05T18:51:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [H96FRa00713941]
+---------------------------------------------------------------
+[ 2019-12-05T18:52:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0eecJA01274107]
+---------------------------------------------------------------
+[ 2019-12-05T18:53:05+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [V7.q1a01918648]
+---------------------------------------------------------------
+[ 2019-12-05T18:54:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [40T402504108]
+---------------------------------------------------------------
+[ 2019-12-05T18:55:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [BZ.P3a03083952]
+---------------------------------------------------------------
+[ 2019-12-05T18:56:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [K03723946]
+---------------------------------------------------------------
+[ 2019-12-05T18:57:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [1LY_vA04303114]
+---------------------------------------------------------------
+[ 2019-12-05T18:58:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ZYDJka04903949]
+---------------------------------------------------------------
+[ 2019-12-05T18:59:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [hUQRTA05473924]
+---------------------------------------------------------------
+[ 2019-12-05T19:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Rr1xba06074104]
+---------------------------------------------------------------
+[ 2019-12-05T19:01:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ulEALA06674116]
+---------------------------------------------------------------
+[ 2019-12-05T19:02:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HeScaA07274107]
+---------------------------------------------------------------
+[ 2019-12-05T19:03:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cpWSkA07893950]
+---------------------------------------------------------------
+[ 2019-12-05T19:04:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [HZfd5a08503055]
+---------------------------------------------------------------
+[ 2019-12-05T19:05:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [yfoxJA09088672]
+---------------------------------------------------------------
+[ 2019-12-05T19:06:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.6WXoa09683941]
+---------------------------------------------------------------
+[ 2019-12-05T19:07:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [NQywFA00284122]
+---------------------------------------------------------------
+[ 2019-12-05T19:08:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [z5jZga0087shb1]
+---------------------------------------------------------------
+[ 2019-12-05T19:09:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cIdJ1a01474114]
+---------------------------------------------------------------
+[ 2019-12-05T19:10:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [kCx4Ua0207shb1]
+---------------------------------------------------------------
+[ 2019-12-05T19:11:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [PDVnKA02673934]
+---------------------------------------------------------------
+[ 2019-12-05T19:12:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [mGU04a03273946]
+---------------------------------------------------------------
+[ 2019-12-05T19:13:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [h9qnBa03873935]
+---------------------------------------------------------------
+[ 2019-12-05T19:14:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [JvIaMa04484127]
+---------------------------------------------------------------
+[ 2019-12-05T19:15:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [nnCx.a05083114]
+---------------------------------------------------------------
+[ 2019-12-05T19:16:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [fV8fcA05678694]
+---------------------------------------------------------------
+[ 2019-12-05T19:17:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Owj0Za06274128]
+---------------------------------------------------------------
+[ 2019-12-05T19:18:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [06871295]
+---------------------------------------------------------------
+[ 2019-12-05T19:19:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [A8hv0a07474104]
+---------------------------------------------------------------
+[ 2019-12-05T19:20:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [632AIa08078641]
+---------------------------------------------------------------
+[ 2019-12-05T19:20:56+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T19:21:06+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [h7hLFA08724100]
+---------------------------------------------------------------
+[ 2019-12-05T19:22:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [ghUs3a09303952]
+---------------------------------------------------------------
+[ 2019-12-05T19:23:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dZQWVA0989shc1]
+---------------------------------------------------------------
+[ 2019-12-05T19:24:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [IkVLma00484128]
+---------------------------------------------------------------
+[ 2019-12-05T19:25:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dZbdDA01073952]
+---------------------------------------------------------------
+[ 2019-12-05T19:26:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [TUI75a01674119]
+---------------------------------------------------------------
+[ 2019-12-05T19:27:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [dqnN402273116]
+---------------------------------------------------------------
+[ 2019-12-05T19:28:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0288shc1]
+---------------------------------------------------------------
+[ 2019-12-05T19:29:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [mGWdHa03478641]
+---------------------------------------------------------------
+[ 2019-12-05T19:30:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [yve7wA04074129]
+---------------------------------------------------------------
+[ 2019-12-05T19:31:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [sujkvA04683924]
+---------------------------------------------------------------
+[ 2019-12-05T19:32:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [arbgxa05288630]
+---------------------------------------------------------------
+[ 2019-12-05T19:33:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [eKfOGA05873955]
+---------------------------------------------------------------
+[ 2019-12-05T19:34:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [PUJzqA06478630]
+---------------------------------------------------------------
+[ 2019-12-05T19:35:16+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [AD8xuA07224124]
+---------------------------------------------------------------
+[ 2019-12-05T19:36:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [9yYIpA07678648]
+---------------------------------------------------------------
+[ 2019-12-05T19:37:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [IWM2Pa08273949]
+---------------------------------------------------------------
+[ 2019-12-05T19:38:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [z0FcwA08874104]
+---------------------------------------------------------------
+[ 2019-12-05T19:39:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [vZeGdA09483114]
+---------------------------------------------------------------
+[ 2019-12-05T19:40:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [KS00084107]
+---------------------------------------------------------------
+[ 2019-12-05T19:41:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [tlMxhA00684963]
+---------------------------------------------------------------
+[ 2019-12-05T19:42:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_hdmJa01273935]
+---------------------------------------------------------------
+[ 2019-12-05T19:43:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [d89YPA01874125]
+---------------------------------------------------------------
+[ 2019-12-05T19:44:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [0247shc1]
+---------------------------------------------------------------
+[ 2019-12-05T19:45:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [6.5j_03075508]
+---------------------------------------------------------------
+[ 2019-12-05T19:46:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7xHKna03693955]
+---------------------------------------------------------------
+[ 2019-12-05T19:47:04+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [O.iQEA04308694]
+---------------------------------------------------------------
+[ 2019-12-05T19:48:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [lLsjia04883932]
+---------------------------------------------------------------
+[ 2019-12-05T19:49:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [VILOAa05483949]
+---------------------------------------------------------------
+[ 2019-12-05T19:50:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [FdYeRA06083952]
+---------------------------------------------------------------
+[ 2019-12-05T19:51:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [jPBGHa06674104]
+---------------------------------------------------------------
+[ 2019-12-05T19:52:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [.ZhnbA07278641]
+---------------------------------------------------------------
+[ 2019-12-05T19:53:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [XVcqaa07874123]
+---------------------------------------------------------------
+[ 2019-12-05T19:54:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [n5FMFa08475508]
+---------------------------------------------------------------
+[ 2019-12-05T19:55:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [3NP7gA09074121]
+---------------------------------------------------------------
+[ 2019-12-05T19:55:26+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=4b6585c8c215b1ee0d74c29b3bb70119cb714b8d&timestamp=1575546932&nonce=32774627&openid=o4sorxIncsGm29cbsFjt9Ozw6j1Q
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [o0i3SA0932e264]"}
+---------------------------------------------------------------
+[ 2019-12-05T19:55:30+08:00 ] 223.104.49.243 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0713LMiF0URnZd2CKwjF0n75jF03LMiz&state=93e582946ff202175ad3ab3a74cdd366
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: 2jcFSLXIRa-kFX1Ga ]"}
+---------------------------------------------------------------
+[ 2019-12-05T19:55:30+08:00 ] 223.104.49.243 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0713LMiF0URnZd2CKwjF0n75jF03LMiz&state=93e582946ff202175ad3ab3a74cdd366
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: 2jcFgzXBe-GO6tlA ]"}
+---------------------------------------------------------------
+[ 2019-12-05T19:56:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [m0H09683934]
+---------------------------------------------------------------
+[ 2019-12-05T19:57:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [6IBgoA00283924]
+---------------------------------------------------------------
+[ 2019-12-05T19:58:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [TlDLMA00883942]
+---------------------------------------------------------------
+[ 2019-12-05T19:58:42+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/groupChat
+[ log ] 群聊消息队列长度：1
+---------------------------------------------------------------
+[ 2019-12-05T19:59:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [GsRj_a01484116]
+---------------------------------------------------------------
+[ 2019-12-05T20:00:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [XRK.50207shc1]
+---------------------------------------------------------------
+[ 2019-12-05T20:01:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [pJr.Ea02674125]
+---------------------------------------------------------------
+[ 2019-12-05T20:02:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [FFMe2a03273946]
+---------------------------------------------------------------
+[ 2019-12-05T20:03:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [cmE8Aa03874125]
+---------------------------------------------------------------
+[ 2019-12-05T20:04:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [9.YXsA04478653]
+---------------------------------------------------------------
+[ 2019-12-05T20:05:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Rvu8Ga05084127]
+---------------------------------------------------------------
+[ 2019-12-05T20:06:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [CZ05683935]
+---------------------------------------------------------------
+[ 2019-12-05T20:07:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [qV2YPA06283949]
+---------------------------------------------------------------
+[ 2019-12-05T20:08:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [bdGXPa06873942]
+---------------------------------------------------------------
+[ 2019-12-05T20:09:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [I_8ChA07474120]
+---------------------------------------------------------------
+[ 2019-12-05T20:10:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [QVfOUa08088651]
+---------------------------------------------------------------
+[ 2019-12-05T20:11:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [IxwEuA08673932]
+---------------------------------------------------------------
+[ 2019-12-05T20:12:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [afsTPa09283941]
+---------------------------------------------------------------
+[ 2019-12-05T20:13:03+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [H42NWa09898648]
+---------------------------------------------------------------
+[ 2019-12-05T20:14:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_RaqrA00483929]
+---------------------------------------------------------------
+[ 2019-12-05T20:15:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [Nhvo_01084120]
+---------------------------------------------------------------
+[ 2019-12-05T20:16:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [07Duma01683929]
+---------------------------------------------------------------
+[ 2019-12-05T20:17:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [IJNc1a02273113]
+---------------------------------------------------------------
+[ 2019-12-05T20:18:07+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [z02933951]
+---------------------------------------------------------------
+[ 2019-12-05T20:19:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [8nc7_a03475508]
+---------------------------------------------------------------
+[ 2019-12-05T20:20:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [7Z5K60407shc2]
+---------------------------------------------------------------
+[ 2019-12-05T20:21:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [tYyeWa04673933]
+---------------------------------------------------------------
+[ 2019-12-05T20:22:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [P7kfGA05284924]
+---------------------------------------------------------------
+[ 2019-12-05T20:23:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_05883948]
+---------------------------------------------------------------
+[ 2019-12-05T20:24:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [j6qqka06483932]
+---------------------------------------------------------------
+[ 2019-12-05T20:25:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [_ZUssA07074113]
+---------------------------------------------------------------
+[ 2019-12-05T20:26:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [43004]require subscribe hint: [bcKd2a0767shb1]
+---------------------------------------------------------------
+[ 2019-12-05T20:32:24+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T20:48:02+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
+---------------------------------------------------------------
+[ 2019-12-05T22:47:38+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=47e77eff9c964915fa17b6a31afe44fa057ab26a&timestamp=1575557264&nonce=640369884&openid=o4sorxJrIKnkZIL7ZRwTauJCz4Nw
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [RDdiDA0264ha64]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:33+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=53b48a50bafb5dc4c952fb0552ad002336b503c5&timestamp=1575558579&nonce=2023660780&openid=o4sorxJrIKnkZIL7ZRwTauJCz4Nw
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [69SXvA0579b101]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:36+08:00 ] 140.243.59.228 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0714aBqu1n34ge0rogsu1n6iqu14aBq4&state=b3170d23dd3b53765e9ee36021fcf329
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: elcFT8yFe-kHhZqa ]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:36+08:00 ] 140.243.59.228 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=0714aBqu1n34ge0rogsu1n6iqu14aBq4&state=b3170d23dd3b53765e9ee36021fcf329
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: elcFDbwgE-b.mq ]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:42+08:00 ] 121.51.66.16 POST www.moonboo.cn/weixin/api/index/id/123?signature=711b8447dbf87eb91e594fcd439658a7e0866c16&timestamp=1575558588&nonce=383110602&openid=o4sorxJrIKnkZIL7ZRwTauJCz4Nw
+[ error ] [0]Request AccessToken fail. response: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq hint: [8yV9vA05881547]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:44+08:00 ] 140.243.59.228 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=071xOFbJ10cr240LoCaJ1p6GbJ1xOFbp&state=42e650dd00921ab72c02bdd087315d4f
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: elcFfawgE-H3IHEA ]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:09:44+08:00 ] 140.243.59.228 GET www.moonboo.cn/weixin/on_message/oauthcallback/weixin/123.html?code=071xOFbJ10cr240LoCaJ1p6GbJ1xOFbp&state=42e650dd00921ab72c02bdd087315d4f
+[ error ] [-1]Authorize Failed: {"errcode":40125,"errmsg":"invalid appsecret, view more at http:\/\/t.cn\/RAEkdVq, hints: [ req_id: elcFnfwgE-.lZ.6a ]"}
+---------------------------------------------------------------
+[ 2019-12-05T23:40:01+08:00 ] 119.29.252.247 GET www.moonboo.cn/crontab/qredis/serviceNotice
+[ error ] [8]未定义数组索引: touser
