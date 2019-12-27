@@ -46,7 +46,7 @@ public class HeroDAO implements DAO {
     public void add(Hero hero) {
   
         String sql = "insert into hero values(null,?,?,?)";
-        try (Connection c = getConnection(); PreparedStatement ps = c.prepareStatement(sql);) {
+        try (Connection c = getConnection(); PreparedStatement ps = c.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);) {
   
             ps.setString(1, hero.name);
             ps.setFloat(2, hero.hp);

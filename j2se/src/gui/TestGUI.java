@@ -157,6 +157,7 @@ public class TestGUI {
 				
                 htm.heros = dao.list();  // 通过dao更新tablemodel中的数据
 				t.updateUI(); //更新表格
+				t.getSelectionModel().setSelectionInterval(0, 0);
 			}
 		});
 	}
