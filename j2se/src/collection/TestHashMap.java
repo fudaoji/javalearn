@@ -2,6 +2,7 @@ package collection;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Random;
 
 import charactor.Hero;
@@ -14,9 +15,17 @@ public class TestHashMap {
 		hm.put("hello", "你好");
 		hm.put("world", "世界");
 		
+		 
+		for (Map.Entry<String, String> entry : hm.entrySet()) {
+		 
+		    System.out.println("Key = " + entry.getKey() + ", Value = " + entry.getValue());
+		 
+		}
+
+		
 		//System.out.println(hm.get("hello"));
 		
-		searchTest();
+		//searchTest();
 	}
 	
 	/**
