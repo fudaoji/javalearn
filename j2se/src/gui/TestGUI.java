@@ -32,6 +32,7 @@ import javax.swing.JSplitPane;
 import javax.swing.JTable;
 import javax.swing.JTextField;
 import javax.swing.ListSelectionModel;
+import javax.swing.SwingWorker;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.filechooser.FileFilter;
@@ -42,8 +43,13 @@ import jdbc.HeroDAO;
 
 public class TestGUI {
 
+	static HeroTableModel htm = new HeroTableModel(); // 创建一个TableModel
+
 	public static void main(String[] args) {
-		tableModel();
+		ui();
+		// swingWorker();
+		// test05();
+		// tableModel();
 		// test04();
 		// test03();
 		// test02();
@@ -58,53 +64,234 @@ public class TestGUI {
 		// modalJDialog();
 	}
 
-	public static void tableModel() {
+	public static void ui() {
+		try {
+			javax.swing.UIManager.setLookAndFeel("com.birosoft.liquid.LiquidLookAndFeel");
+		} catch (Exception e) {
+			e.printStackTrace();
+			// handle exception
+		}
+
 		JFrame f = new JFrame("LoL");
 		f.setSize(400, 300);
 		f.setLocation(200, 200);
+		f.setLayout(null);
+		JButton b = new JButton("一键秒对方基地挂");
+		b.setBounds(50, 50, 280, 30);
+
+		f.add(b);
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		f.setVisible(true);
+	}
+
+	public static void swingWorker() {
+		JFrame f = new JFrame("LoL");
+		f.setSize(300, 300);
+		f.setLocation(200, 200);
+		f.setLayout(new FlowLayout());
+
+		JButton b1 = new JButton("在事件调度线程中执行长耗时任务");
+		JButton b2 = new JButton("使用SwingWorker执行长耗时任务");
+		JLabel l = new JLabel("任务执行结果");
+		f.add(b1);
+		f.add(b2);
+		f.add(l);
+
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		b1.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				l.setText("开始执行任务");
+				try {
+					Thread.sleep(5000);
+				} catch (InterruptedException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+				l.setText("任务执行完毕");
+			}
+		});
+
+		b2.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				SwingWorker<Void, Void> worker = new SwingWorker<Void, Void>() {
+
+					@Override
+					protected Void doInBackground() throws Exception {
+						System.out.println("执行这个SwingWorder的线程是：" + Thread.currentThread().getName());
+						l.setText("开始执行任务");
+						try {
+							Thread.sleep(5000);
+						} catch (InterruptedException e1) {
+							// TODO Auto-generated catch block
+							e1.printStackTrace();
+						}
+						l.setText("任务执行完毕");
+						return null;
+					}
+				};
+				worker.execute();
+
+			}
+		});
+
+		f.setVisible(true);
+	}
+
+	public static void test05() {
+		JFrame f = new JFrame("LoL");
+		f.setSize(500, 400);
+		f.setLocation(200, 200);
 		f.setLayout(new BorderLayout());
 
-		// 创建一个TableModel
-		HeroTableModel htm = new HeroTableModel();
 		// 根据 TableModel来创建 Table
 		JTable t = new JTable(htm);
 		t.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
-        // 选中第一行 （基本0）
-        t.getSelectionModel().setSelectionInterval(0, 0);
- 
-		//使用滚动面板
+		// 选中第一行 （基本0）
+		t.getSelectionModel().setSelectionInterval(0, 0);
+
+		// 使用滚动面板,表格放到面板上
 		JScrollPane sp = new JScrollPane(t);
-		
+
 		// 准备一个Panel上面放一个Label用于显示哪条被选中了
-        JPanel p = new JPanel();
-        JLabel l = new JLabel("暂时未选中条目");
-        p.add(l);
-        
-        // 准备一个Panel上面放一个新增hero的表单
-        JPanel bottomP = new JPanel();
-        bottomP.setLayout(new FlowLayout());
-        JLabel tlName = new JLabel("名称：");
-        JTextField tfName = new JTextField("");
-        tfName.setPreferredSize(new Dimension(100, 30));
-        JLabel tlHp = new JLabel("血量：");
-        JTextField tfHp = new JTextField("");
-        tfHp.setPreferredSize(new Dimension(100, 30));
-        JButton b = new JButton("新增");
-        b.setPreferredSize(new Dimension(80, 30));
-        bottomP.add(tlName);
-        bottomP.add(tfName);
-        bottomP.add(tlHp);
-        bottomP.add(tfHp);
-        bottomP.add(b);
-        
-        f.add(p, BorderLayout.NORTH);
+		JPanel p = new JPanel();
+		JLabel l = new JLabel("暂时未选中条目");
+		p.add(l);
+
+		// 底部Panel新增按钮键
+		JPanel bottomP = new JPanel();
+		bottomP.setLayout(new FlowLayout());
+		JButton addB = new JButton("新增");
+		addB.setPreferredSize(new Dimension(80, 30));
+		bottomP.add(addB);
+
+		JButton setB = new JButton("编辑");
+		setB.setPreferredSize(new Dimension(80, 30));
+		bottomP.add(setB);
+
+		JButton delB = new JButton("删除");
+		delB.setPreferredSize(new Dimension(80, 30));
+		bottomP.add(delB);
+
+		f.add(p, BorderLayout.NORTH);
 		f.add(sp, BorderLayout.CENTER);
 		f.add(bottomP, BorderLayout.SOUTH);
 
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		f.setVisible(true);
 
-		
+		// 点击编辑
+		setB.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// 获取哪一行被选中了
+				int row = t.getSelectedRow();
+				if (row == -1) {
+					JOptionPane.showMessageDialog(f, "请先选中要编辑的对象！");
+					return;
+				}
+
+				Hero h = htm.heros.get(row);
+
+				// 根据外部窗体实例化JDialog
+				JDialog d = new JDialog(f);
+				d.setTitle("新增英雄");
+				d.setSize(400, 300);
+				d.setLocation(200, 200);
+				d.setLayout(new FlowLayout());
+
+				JButton submitB = new JButton("确定");
+
+				JLabel tlName = new JLabel("名称：");
+				JTextField tfName = new JTextField("");
+				tfName.setPreferredSize(new Dimension(100, 30));
+				JLabel tlHp = new JLabel("血量：");
+				JTextField tfHp = new JTextField("");
+				tfHp.setPreferredSize(new Dimension(100, 30));
+
+				tfName.setText(h.name);
+				tfHp.setText(String.valueOf(h.hp));
+
+				d.add(tlName);
+				d.add(tfName);
+				d.add(tlHp);
+				d.add(tfHp);
+				d.add(submitB);
+
+				d.setVisible(true);
+
+				// 监听“新增”按钮的点击事件
+				submitB.addActionListener(new ActionListener() {
+
+					@Override
+					public void actionPerformed(ActionEvent e) {
+						// TODO Auto-generated method stub
+						String name = tfName.getText();
+
+						// 通过name长度判断 名称是否为空
+						if (name.length() == 0) {
+							// 弹出对话框提示用户
+							JOptionPane.showMessageDialog(f, "名称不能为空");
+
+							// 名称输入框获取焦点
+							tfName.grabFocus();
+							return;
+						}
+
+						String hp = tfHp.getText().trim();
+						Float rHp = (float) 0;
+						try {
+							// 把hp转换为浮点型，如果出现异常NumberFormatException表示不是浮点型格式
+							rHp = Float.parseFloat(hp);
+						} catch (NumberFormatException e1) {
+							JOptionPane.showMessageDialog(f, "血量只能是小数 ");
+							tfHp.grabFocus();
+							return;
+						}
+
+						h.name = name;
+						h.hp = rHp;
+
+						HeroDAO dao = new HeroDAO();
+						dao.update(h);
+
+						htm.heros = dao.list(); // 通过dao更新tablemodel中的数据
+						t.updateUI(); // 更新表格
+						JOptionPane.showMessageDialog(f, "更新成功！");
+					}
+				});
+			}
+		});
+
+		// 点击删除
+		delB.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// 获取哪一行被选中了
+				int row = t.getSelectedRow();
+				if (row == -1) {
+					JOptionPane.showMessageDialog(f, "请先选中要删除的对象！");
+					return;
+				}
+
+				if (JOptionPane.OK_OPTION == JOptionPane.showConfirmDialog(f, "确定删除此数据吗 ？")) {
+					// 根据选中的行，到HeroTableModel中获取对应的对象
+					Hero h = htm.heros.get(row);
+					HeroDAO dao = new HeroDAO();
+					dao.delete(h.id);
+
+					htm.heros = dao.list(); // 通过dao更新tablemodel中的数据
+					t.updateUI(); // 更新表格
+					JOptionPane.showMessageDialog(f, "删除成功！");
+				}
+			}
+		});
+
 		// 使用selection监听器来监听table的哪个条目被选中
 		t.getSelectionModel().addListSelectionListener(new ListSelectionListener() {
 
@@ -119,45 +306,190 @@ public class TestGUI {
 
 			}
 		});
-		//监听“新增”按钮的点击事件
+
+		// 点击新增
+		addB.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				// 根据外部窗体实例化JDialog
+				JDialog d = new JDialog(f);
+				// 设置为模态
+				// d.setModal(true);
+
+				d.setTitle("新增英雄");
+				d.setSize(400, 300);
+				d.setLocation(200, 200);
+				d.setLayout(new FlowLayout());
+
+				JButton submitB = new JButton("确定");
+
+				JLabel tlName = new JLabel("名称：");
+				JTextField tfName = new JTextField("");
+				tfName.setPreferredSize(new Dimension(100, 30));
+				JLabel tlHp = new JLabel("血量：");
+				JTextField tfHp = new JTextField("");
+				tfHp.setPreferredSize(new Dimension(100, 30));
+
+				d.add(tlName);
+				d.add(tfName);
+				d.add(tlHp);
+				d.add(tfHp);
+				d.add(submitB);
+
+				d.setVisible(true);
+
+				// 监听“新增”按钮的点击事件
+				submitB.addActionListener(new ActionListener() {
+
+					@Override
+					public void actionPerformed(ActionEvent e) {
+						// TODO Auto-generated method stub
+						String name = tfName.getText();
+
+						// 通过name长度判断 名称是否为空
+						if (name.length() == 0) {
+							// 弹出对话框提示用户
+							JOptionPane.showMessageDialog(f, "名称不能为空");
+
+							// 名称输入框获取焦点
+							tfName.grabFocus();
+							return;
+						}
+
+						String hp = tfHp.getText().trim();
+						Float rHp = (float) 0;
+						try {
+							// 把hp转换为浮点型，如果出现异常NumberFormatException表示不是浮点型格式
+							rHp = Float.parseFloat(hp);
+						} catch (NumberFormatException e1) {
+							JOptionPane.showMessageDialog(f, "血量只能是小数 ");
+							tfHp.grabFocus();
+							return;
+						}
+
+						Hero h = new Hero();
+						h.name = name;
+						h.hp = rHp;
+
+						HeroDAO dao = new HeroDAO();
+						dao.add(h);
+
+						htm.heros = dao.list(); // 通过dao更新tablemodel中的数据
+						t.updateUI(); // 更新表格
+					}
+				});
+			}
+
+		});
+
+	}
+
+	public static void tableModel() {
+		JFrame f = new JFrame("LoL");
+		f.setSize(400, 300);
+		f.setLocation(200, 200);
+		f.setLayout(new BorderLayout());
+
+		// 创建一个TableModel
+		HeroTableModel htm = new HeroTableModel();
+		// 根据 TableModel来创建 Table
+		JTable t = new JTable(htm);
+		t.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
+		// 选中第一行 （基本0）
+		t.getSelectionModel().setSelectionInterval(0, 0);
+
+		// 使用滚动面板
+		JScrollPane sp = new JScrollPane(t);
+
+		// 准备一个Panel上面放一个Label用于显示哪条被选中了
+		JPanel p = new JPanel();
+		JLabel l = new JLabel("暂时未选中条目");
+		p.add(l);
+
+		// 准备一个Panel上面放一个新增hero的表单
+		JPanel bottomP = new JPanel();
+		bottomP.setLayout(new FlowLayout());
+		JLabel tlName = new JLabel("名称：");
+		JTextField tfName = new JTextField("");
+		tfName.setPreferredSize(new Dimension(100, 30));
+		JLabel tlHp = new JLabel("血量：");
+		JTextField tfHp = new JTextField("");
+		tfHp.setPreferredSize(new Dimension(100, 30));
+		JButton b = new JButton("新增");
+		b.setPreferredSize(new Dimension(80, 30));
+		bottomP.add(tlName);
+		bottomP.add(tfName);
+		bottomP.add(tlHp);
+		bottomP.add(tfHp);
+		bottomP.add(b);
+
+		f.add(p, BorderLayout.NORTH);
+		f.add(sp, BorderLayout.CENTER);
+		f.add(bottomP, BorderLayout.SOUTH);
+
+		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		f.setVisible(true);
+
+		// 使用selection监听器来监听table的哪个条目被选中
+		t.getSelectionModel().addListSelectionListener(new ListSelectionListener() {
+
+			// 当选择了某一行的时候触发该事件
+			public void valueChanged(ListSelectionEvent e) {
+				// 获取哪一行被选中了
+				int row = t.getSelectedRow();
+				// 根据选中的行，到HeroTableModel中获取对应的对象
+				Hero h = htm.heros.get(row);
+				// 更新标签内容
+				l.setText("当前选中的英雄是： " + h.name);
+
+			}
+		});
+		// 监听“新增”按钮的点击事件
 		b.addActionListener(new ActionListener() {
-			
+
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				// TODO Auto-generated method stub
 				String name = tfName.getText();
-				 
-                // 通过name长度判断 名称是否为空
-                if (name.length() == 0) {
-                    // 弹出对话框提示用户
-                    JOptionPane.showMessageDialog(f, "名称不能为空");
- 
-                    // 名称输入框获取焦点
-                    tfName.grabFocus();
-                    return;
-                }
- 
-                String hp = tfHp.getText().trim();
-                Float rHp = (float) 0;
-                try {
-                    // 把hp转换为浮点型，如果出现异常NumberFormatException表示不是浮点型格式
-                	rHp = Float.parseFloat(hp);
-                } catch (NumberFormatException e1) {
-                    JOptionPane.showMessageDialog(f, "血量只能是小数 ");
-                    tfHp.grabFocus();
-                    return;
-                }
-                
+
+				// 通过name长度判断 名称是否为空
+				if (name.length() == 0) {
+					// 弹出对话框提示用户
+					JOptionPane.showMessageDialog(f, "名称不能为空");
+
+					// 名称输入框获取焦点
+					tfName.grabFocus();
+					return;
+				}
+
+				String hp = tfHp.getText().trim();
+				Float rHp = (float) 0;
+				try {
+					// 把hp转换为浮点型，如果出现异常NumberFormatException表示不是浮点型格式
+					rHp = Float.parseFloat(hp);
+				} catch (NumberFormatException e1) {
+					JOptionPane.showMessageDialog(f, "血量只能是小数 ");
+					tfHp.grabFocus();
+					return;
+				}
+
 				Hero h = new Hero();
 				h.name = name;
 				h.hp = rHp;
-				
+
 				HeroDAO dao = new HeroDAO();
 				dao.add(h);
+<<<<<<< HEAD
 				
                 htm.heros = dao.list();  // 通过dao更新tablemodel中的数据
 				t.updateUI(); //更新表格
 				t.getSelectionModel().setSelectionInterval(0, 0);
+=======
+
+				htm.heros = dao.list(); // 通过dao更新tablemodel中的数据
+				t.updateUI(); // 更新表格
+>>>>>>> 80a83070aa7dabd9445f17a381285d1b95b50070
 			}
 		});
 	}
