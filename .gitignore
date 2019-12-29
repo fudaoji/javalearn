@@ -2,3 +2,6 @@
 .recommenders
 RemoteSystemsTempFiles
 j2se/.classpath
+j2se/.project
+j2se/.settings/
+j2se/bin/
