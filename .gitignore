@@ -1,3 +1,32 @@
 .metadata
 .recommenders
 RemoteSystemsTempFiles
+#j2se/.classpath
+#j2se/.project
+#j2se/.settings/
+#j2se/bin/
+
+
+  
+target/  
+  
+# built application files  
+*.apk  
+*.ap_  
+  
+# files for the dex VM  
+*.dex  
+  
+# Java class files  
+*.class  
+*.jar  
+  
+# generated files  
+bin/  
+gen/  
+  
+# Eclipse project files  
+.classpath  
+.project 
+.settings/ 
+.DS_Store
