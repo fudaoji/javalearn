@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>新增</title>
+</head>
+<body>
+
+	<div style="margin: 100px auto; width: 500px;">
+		<form action="addhero" method="post">
+			名字 ： <input type="text" name="name"> <br> 血量 ： <input
+				type="text" name="hp"> <br> 伤害： <input type="text"
+				name="damage"> <br>
+			<button type="button">增加</button>
+		</form>
+	</div>
+
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			$("button").on('click', function() {
+				var data = {
+					name : $('input[name="name"]').val(),
+					hp : $('input[name="hp"]').val(),
+					damage : $('input[name="damage"]').val(),
+				};
+				$.post('addhero', data, function(res) {
+					switch (res.code) {
+					case 1:
+						alert(res.msg);
+						$("form").reset();
+						break;
+					default:
+						alert("出错啦");
+						break;
+					}
+				}, "json");
+				//alert(data);  JSON.stringify
+			});
+		});
+	</script>
+</body>
+</html>

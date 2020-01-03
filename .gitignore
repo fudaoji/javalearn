@@ -30,3 +30,7 @@ gen/
 .project 
 .settings/ 
 .DS_Store
+
+uploaded/
+logs/
+Servers

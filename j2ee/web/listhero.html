@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>英雄列表</title>
+</head>
+<body>
+	<div style="width: 600px; margin: 50px auto;">
+		<p>
+			<a href="/j2ee/addhero.html">新增</a>
+		</p>
+		<table align="center" border="1" cellspacing="0">
+			<tbody>
+				<tr>
+					<td>id</td>
+					<td>name</td>
+					<td>hp</td>
+					<td>damage</td>
+					<td>operations</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			var data = {
+				current_page : 1,
+				page_size : 20
+			};
+			$.post('listhero', data, function(res) {
+				console.log(res);
+			}, "json");
+		});
+	</script>
+</body>
+</html>
