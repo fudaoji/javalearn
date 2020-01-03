@@ -9,6 +9,7 @@ RemoteSystemsTempFiles
 
   
 target/  
+build
   
 # built application files  
 *.apk  
