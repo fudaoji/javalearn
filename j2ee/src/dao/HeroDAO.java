@@ -100,6 +100,38 @@ public class HeroDAO {
             e.printStackTrace();
         }
     }
+    /**
+     * 根据条件获取单个数据
+     * @param str
+     * @return
+     */
+    public Hero getOneByMap(String str) {
+        Hero hero = null;
+  
+        try (Connection c = getConnection(); Statement s = c.createStatement();) {
+  
+            String sql = "select * from hero where " + str;
+  
+            ResultSet rs = s.executeQuery(sql);
+  
+            if (rs.next()) {
+                hero = new Hero();
+                String name = rs.getString(2);
+                float hp = rs.getFloat("hp");
+                int damage = rs.getInt(4);
+                int id = rs.getInt(1);
+                hero.name = name;
+                hero.hp = hp;
+                hero.damage = damage;
+                hero.id = id;
+            }
+  
+        } catch (SQLException e) {
+  
+            e.printStackTrace();
+        }
+        return hero;
+    }
   
     public Hero get(int id) {
         Hero hero = null;

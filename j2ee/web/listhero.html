@@ -20,20 +20,102 @@
 				</tr>
 			</tbody>
 		</table>
+		<p style="text-align: center;">
+			<button class="btn-first">首页</button>
+			<button class="btn-bpage" disabled="true">上一页</button>
+			<button class="btn-npage">下一页</button>
+			<button class="btn-last">尾页</button>
+		</p>
 	</div>
 
-	<script
-		src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 	<script>
-		$(document).ready(function() {
-			var data = {
-				current_page : 1,
-				page_size : 20
-			};
-			$.post('listhero', data, function(res) {
-				console.log(res);
-			}, "json");
-		});
+		$(document)
+				.ready(
+						function() {
+							var currentPage = 1, pageSize = 20, total = 0;
+
+							$(".btn-first").on("click", function() {
+								$(".btn-bpage").attr("disabled", true);
+								currentPage = 1;
+								getData();
+							});
+							$(".btn-bpage").on("click", function() {
+								if (currentPage > 1) {
+									$(".btn-npage").attr("disabled", false);
+									currentPage = currentPage - 1;
+									if (currentPage <= 1) {
+										$(this).attr("disabled", true);
+									}
+									getData();
+								}
+							});
+							$(".btn-npage").on("click", function() {
+								var maxPage = Math.ceil(total / pageSize);
+								if ( currentPage < maxPage) {
+									$(".btn-bpage").attr("disabled", false);
+									currentPage = currentPage + 1;
+									if (currentPage >= maxPage) {
+										$(this).attr("disabled", true);
+									}
+									getData();
+								}
+							});
+							$(".btn-last").on("click", function() {
+								$(".btn-npage").attr("disabled", true);
+								currentPage = Math.ceil(total / pageSize);
+								getData();
+							});
+
+							var getData = function() {
+								$(".content-row").remove();
+								var data = {
+									current_page : currentPage,
+									page_size : pageSize
+								};
+								$.post(
+												'listhero',
+												data,
+												function(res) {
+													if(res.code == 119){
+														location.href = "/j2ee/login.html";
+														return;
+													}
+													total = res.total;
+													var template = "<tr class='content-row'><td>{id}</td><td>{name}</td><td>{hp}</td><td>{damage}</td><td>{op}</td></tr>";
+													for (var i = 0; i < res.list.length; i++) {
+														$("tbody")
+																.append(
+																		template
+																				.replace(
+																						"{op}",
+																						"<a href='edithero?id="
+																								+ res.list[i].id
+																								+ "'>编辑</a>&nbsp;&nbsp;<a href='deletehero?id="
+																								+ res.list[i].id
+																								+ "'>删除</a>")
+																				.replace(
+																						"{damage}",
+																						res.list[i].damage)
+																				.replace(
+																						"{hp}",
+																						res.list[i].hp)
+																				.replace(
+																						"{name}",
+																						res.list[i].name)
+																				.replace(
+																						"{id}",
+																						res.list[i].id));
+													}
+												}, "json");
+							}
+
+							var init = function() {
+								getData();
+							};
+
+							init();
+						});
 	</script>
 </body>
 </html>

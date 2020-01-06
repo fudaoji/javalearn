@@ -10,8 +10,9 @@
 		<form action="addhero" method="post">
 			名字 ： <input type="text" name="name"> <br> 血量 ： <input
 				type="text" name="hp"> <br> 伤害： <input type="text"
-				name="damage"> <br>
-			<button type="button">增加</button>
+				name="damage"> <br><br>
+			<button type="button">增加</button> &nbsp;&nbsp;
+			<a href="listhero.html">返回</a>
 		</form>
 	</div>
 
@@ -29,7 +30,7 @@
 					switch (res.code) {
 					case 1:
 						alert(res.msg);
-						$("form").reset();
+						$("form")[0].reset();
 						break;
 					default:
 						alert("出错啦");

@@ -1,50 +1,36 @@
 import java.io.IOException;
 
-import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import dao.Db;
+import net.sf.json.JSONObject;
+ 
 public class LoginServlet extends HttpServlet {
-	
-	/**
-	 * 实例化，由于是单例，所以刷新多次也只执行一次
-	 */
-	public LoginServlet(){
-        System.out.println("LoginServlet 构造方法 被调用");
-    }
-	
-	/**
-	 * 初始化，也只执行一次
-	 */
-	public void init(ServletConfig config) {
-		//System.out.println("init of Login Servlet");
-    }
-	
-	protected void service(HttpServletRequest request, HttpServletResponse response) 
-			throws ServletException, IOException{
-		response.setContentType("text/html; charset=UTF-8");//响应支持中文
-		//response.setContentType("text/html; charset=UTF-8"); //服务端设置内容编码
-		request.setCharacterEncoding("UTF-8");  //接收中文参数
-		
-		response.getWriter().println(request.getMethod());
-		
-		String name = request.getParameter("name");
-		String password = request.getParameter("password");
-		
-		if("admin".equals(name) && "123456".equals(password)){
-			request.getRequestDispatcher("success.html").forward(request, response); //服务器方式跳转
-		}else{
-			response.sendRedirect("fail.html");  //客户端方式跳转
-		}
-
-	}
-	
-	/**
-	 * 销毁函数
-	 */
-	public void destroy() {
-        System.out.println("destroy()");
+ 
+    private static final long serialVersionUID = 1L;
+ 
+    protected void service(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+    	response.setContentType("text/html; charset=UTF-8");
+    	
+    	JSONObject res = new JSONObject();
+    	
+        String name = request.getParameter("name");
+        String password = request.getParameter("password");
+ 
+        Db db = new Db();
+        
+        if (db.count("select count(id) from user where name='"+name+"' and password='"+password+"'") > 0) {
+            request.getSession().setAttribute("userName", name);
+            res.put("code", 1);
+            res.put("msg", "登录成功");
+        } else {
+        	res.put("code", 2003);
+            res.put("msg", "账号或者密码错误");
+        }
+        response.getWriter().print(res);
     }
 }

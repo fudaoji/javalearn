@@ -16,8 +16,7 @@ public class HeroAddServlet extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
  
-        response.setContentType("text/html;charset=utf-8");
-     
+        
         //way1
         /*Hero hero = new Hero();
         hero.setName(request.getParameter("name"));
