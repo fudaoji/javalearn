@@ -17,10 +17,11 @@ public class TestJDBC {
 	static Statement Stat;
 
 	public static void main(String[] args) {
+		//System.out.println(1111);
 		// TODO Auto-generated method stub
-		comparePool();
+		//comparePool();
 		//数据库连接池演示
-		//pool();
+		pool();
 		
 		//setConn();
         //createStatement();
@@ -126,7 +127,7 @@ public class TestJDBC {
 	 */
 	public static void pool(){
 		ConnectionPool cp = new ConnectionPool(3);
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 100; i++) {
 			new TestThread("thread " + i, cp).start();
 		}
 	}
