@@ -3,11 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Login</title>
+    <style>
+        .form-div {
+            margin: 100px auto;
+            width: 500px;
+        }
+    </style>
 </head>
 <body>
-<form action="/day14/demo1" method="post">
-    <input name="username" />
-    <button type="submit">Login</button>
-</form>
+<div class="form-div">
+    <form action="/day14/login" method="post">
+        <div>
+            <input type="text" name="username" placeholder="enter username">
+        </div>
+        <div>
+            <input type="text" name="password" placeholder="enter password">
+        </div>
+        <button type="submit">Submit</button>
+    </form>
+</div>
 </body>
 </html>
