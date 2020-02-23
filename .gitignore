@@ -26,6 +26,9 @@ out/
 # generated files  
 bin/  
 gen/  
+
+#module config files
+.iml
   
 # Eclipse project files  
 .classpath  
