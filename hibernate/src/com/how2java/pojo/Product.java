@@ -9,13 +9,23 @@ public class Product {
 
 	Category category;
 	Set<User> users;
-	 
-    public Set<User> getUsers() {
-        return users;
-    }
-    public void setUsers(Set<User> users) {
-        this.users = users;
-    }
+	int version;
+
+	public int getVersion() {
+		return version;
+	}
+
+	public void setVersion(int version) {
+		this.version = version;
+	}
+
+	public Set<User> getUsers() {
+		return users;
+	}
+
+	public void setUsers(Set<User> users) {
+		this.users = users;
+	}
 
 	public Category getCategory() {
 		return category;

@@ -16,6 +16,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.64" level="application_server_libraries" />
   </component>
 </module>

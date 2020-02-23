@@ -18,6 +18,7 @@
         <property name="show_sql">true</property>
         <property name="hbm2ddl.auto">update</property>
         <mapping resource="com/how2java/pojo/Product.hbm.xml" />
+        <mapping class="com.how2java.pojo.Order" />
     </session-factory>
  
 </hibernate-configuration>

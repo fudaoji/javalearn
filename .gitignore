@@ -10,6 +10,7 @@ RemoteSystemsTempFiles
   
 target/  
 build
+out/
   
 # built application files  
 *.apk  
@@ -31,7 +32,7 @@ gen/
 .project 
 .settings/ 
 .DS_Store
-.idea/
+.idea
 
 uploaded/
 logs/
