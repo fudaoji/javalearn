@@ -28,7 +28,7 @@ bin/
 gen/  
 
 #module config files
-.iml
+*.iml
   
 # Eclipse project files  
 .classpath  
