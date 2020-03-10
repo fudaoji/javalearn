@@ -7,7 +7,6 @@
       <module fileurl="file://$PROJECT_DIR$/webapps/day16/day16.iml" filepath="$PROJECT_DIR$/webapps/day16/day16.iml" />
       <module fileurl="file://$PROJECT_DIR$/step1/step1.iml" filepath="$PROJECT_DIR$/step1/step1.iml" />
       <module fileurl="file://$PROJECT_DIR$/step3/step3.iml" filepath="$PROJECT_DIR$/step3/step3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/web/web.iml" filepath="$PROJECT_DIR$/web/web.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapps/webapps.iml" filepath="$PROJECT_DIR$/webapps/webapps.iml" />
     </modules>
   </component>
