@@ -16,8 +16,13 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+<<<<<<< HEAD
     <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.99" level="application_server_libraries" />
     <orderEntry type="library" name="libs" level="project" />
+=======
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.31" level="application_server_libraries" />
+    <orderEntry type="library" name="lib" level="project" />
+>>>>>>> 0029abe50de4d2feba42c80856477e0b7a54d4aa
     <orderEntry type="module-library">
       <library name="JUnit4">
         <CLASSES>
