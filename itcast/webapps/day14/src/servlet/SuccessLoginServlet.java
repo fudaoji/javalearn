@@ -1,4 +1,4 @@
-package web;
+package servlet;
 
 import domain.User;
 
@@ -13,8 +13,10 @@ import java.io.IOException;
 public class SuccessLoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html; character='utf-8'");
+
         User user = (User) request.getAttribute("user");
-        response.getWriter().write("welcome, " + user.getName());
+        response.getWriter().println("Login success !!");
+        response.getWriter().println("Welcome,  " + user.getUsername());
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

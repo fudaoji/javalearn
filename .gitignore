@@ -10,6 +10,7 @@ RemoteSystemsTempFiles
   
 target/  
 build
+out/
   
 # built application files  
 *.apk  
@@ -25,13 +26,16 @@ build
 # generated files  
 bin/  
 gen/  
+
+#module config files
+.iml
   
 # Eclipse project files  
 .classpath  
 .project 
 .settings/ 
 .DS_Store
-.idea/
+.idea
 
 uploaded/
 logs/

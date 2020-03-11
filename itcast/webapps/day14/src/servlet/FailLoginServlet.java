@@ -1,4 +1,4 @@
-package web;
+package servlet;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -10,7 +10,8 @@ import java.io.IOException;
 @WebServlet("/failLogin")
 public class FailLoginServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().write("Login fail");
+        response.setContentType("text/html; character='utf-8'");
+        response.getWriter().write("Login fail !!");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

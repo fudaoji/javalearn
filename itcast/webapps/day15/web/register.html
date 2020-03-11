@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+    <script>
+        window.onload = function () {
+            let img = document.getElementById("codeImg");
+            let changeBtn = document.getElementById("change");
+            let changeCode = function () {
+                img.src = "/day15/verifyCode" + "?v=" + new Date().getTime();
+            };
+            img.addEventListener("click", changeCode);
+            changeBtn.addEventListener("click", changeCode);
+        }
+    </script>
+</head>
+<body>
+<img id="codeImg" src="/day15/verifyCode" alt="">
+<a id="change" href="javascript:;">看不清，换一张</a>
+</body>
+</html>
