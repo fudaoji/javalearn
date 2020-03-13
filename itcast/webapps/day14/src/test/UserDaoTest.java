@@ -5,14 +5,19 @@ import domain.User;
 import org.junit.Test;
 
 public class UserDaoTest {
+
+
+    /**
+     * 登陆测试
+     */
     @Test
-    public void loginTest() {
-        User loginUser = new User();
-        loginUser.setUsername("dashen");
-        loginUser.setPassword("123456");
+    public void loginTest(){
+        User user = new User();
+        user.setUsername("user0");
+        user.setPassword("123456");
 
         UserDao userDao = new UserDao();
-        User user = userDao.login(loginUser);
-        System.out.println(user);
+        User res = userDao.login(user);
+        System.out.println(res);
     }
 }
