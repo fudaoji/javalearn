@@ -3,7 +3,7 @@ import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 
 @WebServlet("/demo1")
-public class Demo1 implements Servlet {
+public class Demo1 extends GenericServlet {
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
 
