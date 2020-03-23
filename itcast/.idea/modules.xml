@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/webapps/day13/day13.iml" filepath="$PROJECT_DIR$/webapps/day13/day13.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapps/day16/day16.iml" filepath="$PROJECT_DIR$/webapps/day16/day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/day17/day17.iml" filepath="$PROJECT_DIR$/webapps/day17/day17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/day19/day19.iml" filepath="$PROJECT_DIR$/webapps/day19/day19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/day22_ajax&amp;json/day22_ajax&amp;json.iml" filepath="$PROJECT_DIR$/webapps/day22_ajax&amp;json/day22_ajax&amp;json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapps/day23_redis/day23_redis.iml" filepath="$PROJECT_DIR$/webapps/day23_redis/day23_redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/step1/step1.iml" filepath="$PROJECT_DIR$/step1/step1.iml" />
       <module fileurl="file://$PROJECT_DIR$/step3/step3.iml" filepath="$PROJECT_DIR$/step3/step3.iml" />
       <module fileurl="file://$PROJECT_DIR$/webapps/webapps.iml" filepath="$PROJECT_DIR$/webapps/webapps.iml" />
