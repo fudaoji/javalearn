@@ -16,4 +16,14 @@ public class UserServiceImpl implements UserService {
         UserDaoImpl userDao = new UserDaoImpl();
         return  userDao.findAll();
     }
+
+    /**
+     * 登录
+     * @param loginUser
+     * @return
+     */
+    @Override
+    public User login(User loginUser) {
+        return  new UserDaoImpl().login(loginUser);
+    }
 }

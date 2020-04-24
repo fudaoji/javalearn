@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 23 23:30:17 CST 2020
+commons-io-1.4.pom>central=
+commons-io-1.4.pom>alimaven=
+commons-io-1.4.jar>alimaven=
+commons-io-1.4.jar>central=

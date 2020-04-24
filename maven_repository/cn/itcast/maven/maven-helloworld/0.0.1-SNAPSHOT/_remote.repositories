@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 23 22:52:00 CST 2020
+maven-helloworld-0.0.1-SNAPSHOT.war>=
+maven-helloworld-0.0.1-SNAPSHOT.pom>=

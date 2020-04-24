@@ -10,4 +10,5 @@ import java.util.List;
 public interface UserDao {
 
     public List<User> findAll();
+    public User login(User loginUser);
 }

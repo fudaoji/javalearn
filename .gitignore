@@ -36,6 +36,7 @@ gen/
 .settings/ 
 .DS_Store
 .idea
+.idea/*
 
 uploaded/
 logs/

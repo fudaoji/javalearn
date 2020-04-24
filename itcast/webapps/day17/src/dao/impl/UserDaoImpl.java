@@ -28,4 +28,26 @@ public class UserDaoImpl implements UserDao {
             return null;
         }
     }
+
+    /**
+     * 登录
+     *
+     * @param loginUser 表单数据
+     * @return User
+     */
+    @Override
+    public User login(User loginUser) {
+        try {
+            String sql = "select * from user where username = ? and password = ?";
+            User user = template.queryForObject(sql,
+                    new BeanPropertyRowMapper<>(User.class),
+                    loginUser.getUsername(),
+                    loginUser.getPassword()
+            );
+            return user;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return null;
+        }
+    }
 }
