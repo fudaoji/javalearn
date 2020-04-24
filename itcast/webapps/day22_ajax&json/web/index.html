@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ajax</title>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+<script>
+    function fun() {
+        //1、创建实例
+        var xmlhttp;
+        if (window.XMLHttpRequest) {
+            //  IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+            xmlhttp = new XMLHttpRequest();
+        } else {
+            // IE6, IE5 浏览器执行代码
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        //2、建立连接
+        xmlhttp.open("GET", "ajaxServlet?name=doogie", true);
+        //3、发送请求
+        xmlhttp.send();
+
+        //4、接收服务端返回数据
+        xmlhttp.onreadystatechange = function () {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                alert(xmlhttp.responseText);
+            }
+        }
+    }
+
+    function fun2() {
+        $.post('ajaxServlet', {name: "doogie", age: 23, gender: "女"}, function (res) {
+            console.log(res);
+        }, "json");
+    }
+</script>
+
+<input type="button" value="请求服务端" onclick="fun2();">
+
+</body>
+</html>
