@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Apr 17 09:48:47 CST 2017
-activation-1.1.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Apr 24 22:19:16 CST 2020
+activation-1.1.pom>alimaven=
 activation-1.1.pom>central=
+activation-1.1.jar>alimaven=
+activation-1.1.jar>central=
