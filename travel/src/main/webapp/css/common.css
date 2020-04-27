@@ -8,7 +8,7 @@
 /*css 初始化 */
 html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img {
     margin: 0;
-    padding: 0;  
+    padding: 0;
     box-sizing: border-box;
     font-family: '微软雅黑';
 }
@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 50px;
 }
 
-.login_out, .login {  
+.login_out, .login {
     height: 50px;
     line-height: 36px;
     float: right;
@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #ffd800;
 }
 
-.nav>li>a {   
+.nav>li>a {
     padding: 10px 15px;
 }
 
@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #3d3d3f;
 }
 
-.why_select {    
+.why_select {
     overflow: hidden;
     margin: 0 auto;
     border-bottom: solid 1px #666;
@@ -324,3 +324,5 @@ h1, h2, h3, h4, h5, h6 {
 .pageNum ul .threeword {
   width: 75px;
 }
+
+.hide{display: none;}

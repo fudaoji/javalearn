@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:33 CST 2020
+#Mon Apr 27 14:16:40 CST 2020
 junit-4.10.jar>alimaven=
 junit-4.10.pom>alimaven=
 junit-4.10.jar>central=
 junit-4.10-sources.jar>central=
 junit-4.10.pom>central=
+junit-4.10.pom>nexus-aliyun=
+junit-4.10.jar>nexus-aliyun=

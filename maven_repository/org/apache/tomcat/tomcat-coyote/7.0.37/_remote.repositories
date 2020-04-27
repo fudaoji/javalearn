@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:33 CST 2020
+#Mon Apr 27 14:16:40 CST 2020
+tomcat-coyote-7.0.37.pom>nexus-aliyun=
+tomcat-coyote-7.0.37.jar>nexus-aliyun=
 tomcat-coyote-7.0.37.jar>alimaven=
 tomcat-coyote-7.0.37.pom>alimaven=
 tomcat-coyote-7.0.37.jar>central=

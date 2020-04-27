@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:58 CST 2020
+#Mon Apr 27 14:22:46 CST 2020
 jetty-parent-7.pom>central=
+jetty-parent-7.pom>nexus-aliyun=
 jetty-parent-7.pom>alimaven=

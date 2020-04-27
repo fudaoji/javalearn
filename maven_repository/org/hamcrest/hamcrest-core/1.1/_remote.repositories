@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:25:20 CST 2020
+#Mon Apr 27 14:16:40 CST 2020
 hamcrest-core-1.1.pom>central=
+hamcrest-core-1.1.pom>nexus-aliyun=
+hamcrest-core-1.1.jar>nexus-aliyun=
 hamcrest-core-1.1.jar>alimaven=
 hamcrest-core-1.1.jar>central=
 hamcrest-core-1.1.pom>alimaven=

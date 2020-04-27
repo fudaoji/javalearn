@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
+#Mon Apr 27 14:20:34 CST 2020
+commons-pool2-2.3.jar>nexus-aliyun=
+commons-pool2-2.3.pom>central=
 commons-pool2-2.3.jar>alimaven=
+commons-pool2-2.3.pom>nexus-aliyun=
+commons-pool2-2.3.jar>central=
 commons-pool2-2.3.pom>alimaven=

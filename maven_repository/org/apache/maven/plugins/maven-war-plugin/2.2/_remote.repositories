@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:25:47 CST 2020
+#Mon Apr 27 14:22:03 CST 2020
 maven-war-plugin-2.2.jar>central=
 maven-war-plugin-2.2.pom>central=
 maven-war-plugin-2.2.pom>alimaven=
+maven-war-plugin-2.2.jar>nexus-aliyun=
+maven-war-plugin-2.2.pom>nexus-aliyun=
 maven-war-plugin-2.2.jar>alimaven=

@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:25:53 CST 2020
+#Mon Apr 27 14:22:07 CST 2020
 xpp3_min-1.1.4c.pom>central=
+xpp3_min-1.1.4c.jar>nexus-aliyun=
 xpp3_min-1.1.4c.pom>alimaven=
 xpp3_min-1.1.4c.jar>central=
+xpp3_min-1.1.4c.pom>nexus-aliyun=
 xpp3_min-1.1.4c.jar>alimaven=

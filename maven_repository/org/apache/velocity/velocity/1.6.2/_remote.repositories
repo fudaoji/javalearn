@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:55 CST 2020
+#Mon Apr 27 14:22:40 CST 2020
 velocity-1.6.2.pom>central=
 velocity-1.6.2.pom>alimaven=
+velocity-1.6.2.pom>nexus-aliyun=

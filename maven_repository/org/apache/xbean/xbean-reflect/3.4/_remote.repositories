@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:55 CST 2020
-xbean-reflect-3.4.pom>alimaven=
+#Mon Apr 27 14:16:23 CST 2020
 xbean-reflect-3.4.jar>alimaven=
+xbean-reflect-3.4.pom>alimaven=
 xbean-reflect-3.4.jar>central=
 xbean-reflect-3.4.pom>central=
+xbean-reflect-3.4.pom>nexus-aliyun=
+xbean-reflect-3.4.jar>nexus-aliyun=

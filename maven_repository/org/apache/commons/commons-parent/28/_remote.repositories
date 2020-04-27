@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:01 CST 2020
+#Mon Apr 27 14:15:28 CST 2020
 commons-parent-28.pom>alimaven=
 commons-parent-28.pom>central=
+commons-parent-28.pom>nexus-aliyun=

@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:51:59 CST 2020
+#Mon Apr 27 14:22:13 CST 2020
 plexus-digest-1.0.pom>central=
 plexus-digest-1.0.jar>alimaven=
 plexus-digest-1.0.pom>alimaven=
 plexus-digest-1.0.jar>central=
+plexus-digest-1.0.pom>nexus-aliyun=
+plexus-digest-1.0.jar>nexus-aliyun=

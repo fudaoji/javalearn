@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:19:10 CST 2020
+#Mon Apr 27 14:22:21 CST 2020
+aether-parent-1.7.pom>nexus-aliyun=
 aether-parent-1.7.pom>central=
 aether-parent-1.7.pom>alimaven=

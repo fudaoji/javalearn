@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:31 CST 2020
+#Mon Apr 27 14:16:00 CST 2020
 plexus-1.0.11.pom>alimaven=
 plexus-1.0.11.pom>central=
+plexus-1.0.11.pom>nexus-aliyun=

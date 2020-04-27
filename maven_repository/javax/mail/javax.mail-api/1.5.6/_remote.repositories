@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
+#Mon Apr 27 14:20:34 CST 2020
 javax.mail-api-1.5.6.pom>alimaven=
+javax.mail-api-1.5.6.jar>nexus-aliyun=
+javax.mail-api-1.5.6.jar>central=
+javax.mail-api-1.5.6.pom>central=
+javax.mail-api-1.5.6.pom>nexus-aliyun=
 javax.mail-api-1.5.6.jar>alimaven=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:30:14 CST 2020
+#Mon Apr 27 14:22:41 CST 2020
 doxia-tools-2.pom>central=
 doxia-tools-2.pom>alimaven=
+doxia-tools-2.pom>nexus-aliyun=

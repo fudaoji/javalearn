@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:19 CST 2020
+#Mon Apr 27 14:15:25 CST 2020
+tomcat7-maven-plugin-2.1.jar>nexus-aliyun=
 tomcat7-maven-plugin-2.1.jar>alimaven=
 tomcat7-maven-plugin-2.1.jar>central=
 tomcat7-maven-plugin-2.1.pom>alimaven=
+tomcat7-maven-plugin-2.1.pom>nexus-aliyun=
 tomcat7-maven-plugin-2.1.pom>central=

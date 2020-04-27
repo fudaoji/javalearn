@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:20 CST 2020
-maven-plugins-24.pom>alimaven=
+#Mon Apr 27 14:15:23 CST 2020
 maven-plugins-24.pom>central=
+maven-plugins-24.pom>nexus-aliyun=
+maven-plugins-24.pom>alimaven=

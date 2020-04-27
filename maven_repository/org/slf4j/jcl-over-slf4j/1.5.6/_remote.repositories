@@ -1,6 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:06 CST 2020
-jcl-over-slf4j-1.5.6.pom>alimaven=
-jcl-over-slf4j-1.5.6.jar>central=
-jcl-over-slf4j-1.5.6.pom>central=
+#Mon Apr 27 14:16:15 CST 2020
 jcl-over-slf4j-1.5.6.jar>alimaven=
+jcl-over-slf4j-1.5.6.pom>alimaven=
+jcl-over-slf4j-1.5.6.pom>nexus-aliyun=
+jcl-over-slf4j-1.5.6.pom>central=
+jcl-over-slf4j-1.5.6.jar>central=

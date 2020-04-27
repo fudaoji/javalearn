@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:50 CST 2020
+#Mon Apr 27 14:22:35 CST 2020
 logkit-1.0.1.pom>central=
 logkit-1.0.1.pom>alimaven=
+logkit-1.0.1.pom>nexus-aliyun=

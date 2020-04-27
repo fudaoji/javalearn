@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:56 CST 2020
+#Mon Apr 27 14:22:42 CST 2020
 wagon-1.0.pom>alimaven=
 wagon-1.0.pom>central=
+wagon-1.0.pom>nexus-aliyun=

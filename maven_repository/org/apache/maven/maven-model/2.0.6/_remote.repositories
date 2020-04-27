@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:39 CST 2020
-maven-model-2.0.6.pom>central=
-maven-model-2.0.6.pom>alimaven=
-maven-model-2.0.6.jar>alimaven=
+#Mon Apr 27 14:16:09 CST 2020
+maven-model-2.0.6.pom>nexus-aliyun=
 maven-model-2.0.6.jar>central=
+maven-model-2.0.6.jar>nexus-aliyun=
+maven-model-2.0.6.pom>central=
+maven-model-2.0.6.jar>alimaven=
+maven-model-2.0.6.pom>alimaven=

@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
+#Mon Apr 27 14:20:34 CST 2020
 commons-beanutils-1.9.2.pom>alimaven=
+commons-beanutils-1.9.2.jar>nexus-aliyun=
+commons-beanutils-1.9.2.jar>central=
+commons-beanutils-1.9.2.pom>central=
+commons-beanutils-1.9.2.pom>nexus-aliyun=
 commons-beanutils-1.9.2.jar>alimaven=

@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:39 CST 2020
-maven-profile-2.0.6.jar>central=
+#Mon Apr 27 14:16:09 CST 2020
 maven-profile-2.0.6.pom>alimaven=
-maven-profile-2.0.6.jar>alimaven=
+maven-profile-2.0.6.pom>nexus-aliyun=
+maven-profile-2.0.6.jar>central=
 maven-profile-2.0.6.pom>central=
+maven-profile-2.0.6.jar>nexus-aliyun=
+maven-profile-2.0.6.jar>alimaven=

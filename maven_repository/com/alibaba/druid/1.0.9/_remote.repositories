@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
+#Mon Apr 27 14:20:33 CST 2020
+druid-1.0.9.pom>nexus-aliyun=
 druid-1.0.9.jar>central=
 druid-1.0.9.jar>alimaven=
+druid-1.0.9.jar>nexus-aliyun=
 druid-1.0.9.pom>central=
 druid-1.0.9-sources.jar>central=
 druid-1.0.9.pom>alimaven=

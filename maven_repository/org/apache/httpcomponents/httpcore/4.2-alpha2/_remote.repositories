@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:33 CST 2020
+#Mon Apr 27 14:16:40 CST 2020
+httpcore-4.2-alpha2.pom>nexus-aliyun=
+httpcore-4.2-alpha2.jar>nexus-aliyun=
 httpcore-4.2-alpha2.jar>central=
 httpcore-4.2-alpha2.jar>alimaven=
 httpcore-4.2-alpha2.pom>central=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:30 CST 2020
+#Mon Apr 27 14:16:33 CST 2020
 slf4j-parent-1.7.2.pom>central=
+slf4j-parent-1.7.2.pom>nexus-aliyun=
 slf4j-parent-1.7.2.pom>alimaven=

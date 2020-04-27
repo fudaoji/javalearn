@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:33 CST 2020
+#Mon Apr 27 14:16:40 CST 2020
 httpclient-4.2-alpha1.jar>central=
 httpclient-4.2-alpha1.jar>alimaven=
 httpclient-4.2-alpha1.pom>central=
 httpclient-4.2-alpha1.pom>alimaven=
+httpclient-4.2-alpha1.pom>nexus-aliyun=
+httpclient-4.2-alpha1.jar>nexus-aliyun=

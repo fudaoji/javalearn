@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:19:24 CST 2020
-sisu-inject-plexus-1.4.2.jar>central=
-sisu-inject-plexus-1.4.2.pom>central=
+#Mon Apr 27 14:22:49 CST 2020
 sisu-inject-plexus-1.4.2.jar>alimaven=
 sisu-inject-plexus-1.4.2.pom>alimaven=
+sisu-inject-plexus-1.4.2.jar>nexus-aliyun=
+sisu-inject-plexus-1.4.2.pom>nexus-aliyun=
+sisu-inject-plexus-1.4.2.jar>central=
+sisu-inject-plexus-1.4.2.pom>central=

@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:20 CST 2020
-maven-resources-plugin-2.6.pom>alimaven=
+#Mon Apr 27 14:15:26 CST 2020
+maven-resources-plugin-2.6.pom>nexus-aliyun=
+maven-resources-plugin-2.6.jar>nexus-aliyun=
 maven-resources-plugin-2.6.jar>central=
 maven-resources-plugin-2.6.jar>alimaven=
+maven-resources-plugin-2.6.pom>alimaven=
 maven-resources-plugin-2.6.pom>central=

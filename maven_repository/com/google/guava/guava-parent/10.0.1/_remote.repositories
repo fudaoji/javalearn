@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 00:00:27 CST 2020
+#Mon Apr 27 14:16:30 CST 2020
+guava-parent-10.0.1.pom>nexus-aliyun=
 guava-parent-10.0.1.pom>central=
 guava-parent-10.0.1.pom>alimaven=

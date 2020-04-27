@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:30 CST 2020
+#Mon Apr 27 14:22:49 CST 2020
+servlet-api-2.5.pom>nexus-aliyun=
 servlet-api-2.5.pom>central=
 servlet-api-2.5.pom>alimaven=
 servlet-api-2.5.jar>central=
+servlet-api-2.5.jar>nexus-aliyun=
 servlet-api-2.5.jar>alimaven=

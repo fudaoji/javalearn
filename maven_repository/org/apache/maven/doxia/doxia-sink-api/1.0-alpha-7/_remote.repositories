@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:24:39 CST 2020
-doxia-sink-api-1.0-alpha-7.pom>alimaven=
-doxia-sink-api-1.0-alpha-7.jar>alimaven=
-doxia-sink-api-1.0-alpha-7.pom>central=
+#Mon Apr 27 14:16:09 CST 2020
 doxia-sink-api-1.0-alpha-7.jar>central=
+doxia-sink-api-1.0-alpha-7.pom>central=
+doxia-sink-api-1.0-alpha-7.pom>nexus-aliyun=
+doxia-sink-api-1.0-alpha-7.jar>nexus-aliyun=
+doxia-sink-api-1.0-alpha-7.jar>alimaven=
+doxia-sink-api-1.0-alpha-7.pom>alimaven=

@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
+#Mon Apr 27 14:20:34 CST 2020
 jedis-2.7.0.jar>alimaven=
+jedis-2.7.0.pom>central=
+jedis-2.7.0.jar>nexus-aliyun=
+jedis-2.7.0.pom>nexus-aliyun=
 jedis-2.7.0.pom>alimaven=
+jedis-2.7.0.jar>central=

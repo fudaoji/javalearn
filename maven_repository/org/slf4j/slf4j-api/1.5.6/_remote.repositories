@@ -1,6 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:06 CST 2020
-slf4j-api-1.5.6.jar>alimaven=
+#Mon Apr 27 14:16:14 CST 2020
 slf4j-api-1.5.6.jar>central=
-slf4j-api-1.5.6.pom>central=
+slf4j-api-1.5.6.jar>alimaven=
+slf4j-api-1.5.6.pom>nexus-aliyun=
 slf4j-api-1.5.6.pom>alimaven=
+slf4j-api-1.5.6.pom>central=

@@ -42,4 +42,53 @@ public class UserDaoImpl implements UserDao {
                 user.getCode()
         );
     }
+
+    /**
+     * 根据code查找user
+     * @param code
+     * @return
+     */
+    @Override
+    public User findByCode(String code) {
+        User user = null;
+        try {
+            //1.sql
+            String sql = "select *  from " + this.table + " where code = ?";
+            //2.exe sql
+            user = template.queryForObject(sql, new BeanPropertyRowMapper<User>(User.class), code);
+        }catch (Exception e){ };
+        return user;
+    }
+
+    /**
+     * update status of user
+     * @param user
+     */
+    @Override
+    public void updateStatus(User user) {
+        //1.sql
+        String sql = "update " + this.table + " set status=? where uid=" + user.getUid();
+        //2.exe sql
+        template.update(sql, "Y");
+    }
+
+    /**
+     * 根据用户名和密码获取user
+     * @param loginUser
+     * @return
+     */
+    @Override
+    public User findByUsernamePwd(User loginUser) {
+        User user = null;
+        try {
+            //1.sql
+            String sql = "select *  from " + this.table + " where username = ? and password = ?";
+            //2.exe sql
+            user = template.queryForObject(sql,
+                    new BeanPropertyRowMapper<User>(User.class),
+                    loginUser.getUsername(), loginUser.getPassword()
+            );
+        }catch (Exception e){ };
+        return user;
+    }
 }

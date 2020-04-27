@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:08 CST 2020
+#Mon Apr 27 14:15:31 CST 2020
 all-1.5.6.pom>alimaven=
+all-1.5.6.pom>central=
+all-1.5.6.pom>nexus-aliyun=

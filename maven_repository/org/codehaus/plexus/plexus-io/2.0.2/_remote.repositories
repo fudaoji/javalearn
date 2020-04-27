@@ -1,5 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 22:25:53 CST 2020
+#Mon Apr 27 14:22:07 CST 2020
+plexus-io-2.0.2.pom>nexus-aliyun=
+plexus-io-2.0.2.jar>nexus-aliyun=
 plexus-io-2.0.2.pom>alimaven=
 plexus-io-2.0.2.jar>alimaven=
 plexus-io-2.0.2.pom>central=

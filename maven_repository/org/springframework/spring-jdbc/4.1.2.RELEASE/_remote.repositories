@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Apr 24 22:19:16 CST 2020
-spring-jdbc-4.1.2.RELEASE.pom>alimaven=
+#Mon Apr 27 14:20:34 CST 2020
+spring-jdbc-4.1.2.RELEASE.jar>central=
 spring-jdbc-4.1.2.RELEASE.jar>alimaven=
+spring-jdbc-4.1.2.RELEASE.pom>alimaven=
+spring-jdbc-4.1.2.RELEASE.pom>nexus-aliyun=
+spring-jdbc-4.1.2.RELEASE.jar>nexus-aliyun=
+spring-jdbc-4.1.2.RELEASE.pom>central=

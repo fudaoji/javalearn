@@ -24,10 +24,36 @@ public class UserServiceImpl implements UserService {
             userDao.save(registerUser);
 
             //3.发送邮箱验证码
-            String content = "<a href='http://localhost:8080/travel/activeUser?code="+code+"'>点击验证</a>";
+            String content = "<a href='http://localhost:8080/travel/activeUserServlet?code="+code+"'>点击验证</a>";
             MailUtils.sendMail(registerUser.getEmail(), content, "账号激活");
         }
 
         return flag;
+    }
+
+    /**
+     * 邮箱激活用户
+     * @param code
+     * @return
+     */
+    @Override
+    public boolean active(String code) {
+        //根据code查找用户，存在则修改user的status为Y
+        User user = userDao.findByCode(code);
+        if(user != null){
+            userDao.updateStatus(user);
+            return  true;
+        }
+        return false;
+    }
+
+    /**
+     * 登录
+     * @param loginUser
+     * @return
+     */
+    @Override
+    public User login(User loginUser) {
+        return  userDao.findByUsernamePwd(loginUser);
     }
 }
