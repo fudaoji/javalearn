@@ -74,4 +74,14 @@ public class UserServiceImpl implements UserService {
     public int delUser(String _id) {
         return dao.delete(Integer.parseInt(_id));
     }
+
+    /**
+     * 登录
+     * @param loginUser
+     * @return
+     */
+    @Override
+    public User login(User loginUser) {
+        return  new UserDaoImpl().login(loginUser);
+    }
 }

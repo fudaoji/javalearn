@@ -36,6 +36,23 @@ public class UserDaoImpl implements UserDao {
     }
 
     /**
+<<<<<<< HEAD
+     * 登录
+     *
+     * @param loginUser 表单数据
+     * @return User
+     */
+    @Override
+    public User login(User loginUser) {
+        try {
+            String sql = "select * from user where username = ? and password = ?";
+            User user = template.queryForObject(sql,
+                    new BeanPropertyRowMapper<>(User.class),
+                    loginUser.getUsername(),
+                    loginUser.getPassword()
+            );
+            return user;
+=======
      * 查找总数
      *
      * @param condition
@@ -135,11 +152,14 @@ public class UserDaoImpl implements UserDao {
             return template.queryForObject(sql,
                     new BeanPropertyRowMapper<>(User.class), id
             );
+>>>>>>> 0a5cb22bc0b4e113362f2e3b8a910d07bbbbd3df
         } catch (Exception e) {
             e.printStackTrace();
             return null;
         }
     }
+<<<<<<< HEAD
+=======
 
     /**
      * 修改
@@ -182,4 +202,5 @@ public class UserDaoImpl implements UserDao {
             return 0;
         }
     }
+>>>>>>> 0a5cb22bc0b4e113362f2e3b8a910d07bbbbd3df
 }

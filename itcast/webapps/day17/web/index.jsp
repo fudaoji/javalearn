@@ -1,3 +1,4 @@
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
@@ -21,8 +22,21 @@
 <body>
 <div>${user.name},欢迎您</div>
 <div align="center">
+<<<<<<< HEAD
+    <c:if test="${! empty user}">
+        <h3>你好，${user.username}</h3>
+    <a href="${pageContext.request.contextPath}/userListServlet" style="text-decoration:none;font-size:33px">
+        查询所有用户信息
+=======
     <a href="${pageContext.request.contextPath}/findUserByPageServlet" style="text-decoration:none;font-size:33px">查询所有用户信息
+>>>>>>> 0a5cb22bc0b4e113362f2e3b8a910d07bbbbd3df
     </a>
+    </c:if>
+    <c:if test="${empty user}">
+        <%
+            request.getRequestDispatcher("/login.jsp").forward(pageContext.getRequest(), pageContext.getResponse());
+        %>
+    </c:if>
 </div>
 </body>
 </html>
