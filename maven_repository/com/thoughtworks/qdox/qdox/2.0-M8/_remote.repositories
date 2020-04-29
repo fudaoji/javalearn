@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:06 CST 2020
+#Tue Apr 28 16:06:53 CST 2020
+qdox-2.0-M8.jar>nexus-aliyun=
 qdox-2.0-M8.pom>alimaven=
+qdox-2.0-M8.pom>nexus-aliyun=
 qdox-2.0-M8.jar>alimaven=

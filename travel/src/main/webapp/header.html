@@ -1,15 +1,3 @@
-<script>
-    $(function () {
-        $.post('findUserServlet', null, function (res) {
-            if(res.flag){
-                $('.login').removeClass('hide');
-                $('.username').text(res.data.name);
-            }else{
-                $('.login_out').removeClass('hide');
-            }
-        }, 'json');
-    });
-</script>
 <!-- 头部 start -->
 <header id="header">
     <div class="top_banner">
@@ -25,7 +13,7 @@
         <div class="login hide">
             <span>欢迎回来，<span class="username"></span></span>
             <a href="myfavorite.html" class="collection">我的收藏</a>
-            <a href="javascript:location.href='logoutServlet';">退出</a>
+            <a href="javascript:location.href='user/logout';">退出</a>
         </div>
     </div>
     <div class="header_wrap">
@@ -65,3 +53,32 @@
         <li><a href="favoriterank.html">收藏排行榜</a></li>
     </ul>
 </div>
+<script>
+    /**
+     * 获取用户信息
+     */
+    var getUserInfo = function(){
+        $.post('user/findOne', null, function (res) {
+            if(res.flag){
+                $('.login').removeClass('hide');
+                $('.username').text(res.data.name);
+            }else{
+                $('.login_out').removeClass('hide');
+            }
+        }, 'json');
+    };
+    var getCategory = function(){
+        $.post('category/findAll', null, function (res) {
+            var html = '<li class="nav-active"><a href="index.html">首页</a></li>';
+            for (var i=0; i<res.length; i++){
+                html += '<li><a href="route_list.html?cid='+res[i].cid+'">'+res[i].cname+'</a></li>';
+            }
+            html += '<li><a href="favoriterank.html">收藏排行榜</a></li>';
+            $('.nav').html(html);
+        }, 'json');
+    };
+    $(function () {
+        getCategory();
+        getUserInfo();
+    });
+</script>

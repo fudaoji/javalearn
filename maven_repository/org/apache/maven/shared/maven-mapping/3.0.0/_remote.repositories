@@ -1,6 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:30:04 CST 2020
+#Tue Apr 28 16:06:40 CST 2020
 maven-mapping-3.0.0.jar>central=
 maven-mapping-3.0.0.jar>alimaven=
 maven-mapping-3.0.0.pom>central=
 maven-mapping-3.0.0.pom>alimaven=
+maven-mapping-3.0.0.pom>nexus-aliyun=
+maven-mapping-3.0.0.jar>nexus-aliyun=

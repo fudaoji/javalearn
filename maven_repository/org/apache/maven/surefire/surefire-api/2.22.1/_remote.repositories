@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:20:06 CST 2020
+#Tue Apr 28 16:06:53 CST 2020
 surefire-api-2.22.1.pom>alimaven=
+surefire-api-2.22.1.jar>nexus-aliyun=
 surefire-api-2.22.1.jar>alimaven=
+surefire-api-2.22.1.pom>nexus-aliyun=

@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:29:56 CST 2020
+#Tue Apr 28 16:06:31 CST 2020
 commons-compress-1.14.pom>central=
+commons-compress-1.14.pom>nexus-aliyun=
 commons-compress-1.14.jar>central=
 commons-compress-1.14.pom>alimaven=

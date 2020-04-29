@@ -178,7 +178,7 @@
             let flag = checkUsername() && checkPassword() && checkEmail();
             //使用异步提交
             if(flag){
-                $.post('register', $(this).serialize(), function (res) {
+                $.post('user/register', $(this).serialize(), function (res) {
                     alert(res.errorMsg);
                     if(res.flag){
                         location.href = "register_ok.html";

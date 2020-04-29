@@ -101,7 +101,7 @@
             let flag = checkUsername() && checkPassword();
             //使用异步提交
             if(flag){
-                $.post('loginServlet', $(this).serialize(), function (res) {
+                $.post('user/login', $(this).serialize(), function (res) {
                     if(res.flag){
                         location.href = "index.html";
                     }else{

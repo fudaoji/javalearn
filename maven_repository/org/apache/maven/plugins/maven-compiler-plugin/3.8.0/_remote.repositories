@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:19:50 CST 2020
+#Tue Apr 28 16:06:42 CST 2020
 maven-compiler-plugin-3.8.0.pom>alimaven=
+maven-compiler-plugin-3.8.0.pom>nexus-aliyun=
+maven-compiler-plugin-3.8.0.jar>nexus-aliyun=
 maven-compiler-plugin-3.8.0.jar>alimaven=

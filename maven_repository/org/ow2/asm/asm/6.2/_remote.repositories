@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:19:57 CST 2020
+#Tue Apr 28 16:06:46 CST 2020
+asm-6.2.jar>nexus-aliyun=
 asm-6.2.pom>alimaven=
 asm-6.2.jar>alimaven=
+asm-6.2.pom>nexus-aliyun=

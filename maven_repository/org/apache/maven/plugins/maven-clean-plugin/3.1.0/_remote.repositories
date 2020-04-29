@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Apr 23 23:19:35 CST 2020
+#Tue Apr 28 16:06:18 CST 2020
+maven-clean-plugin-3.1.0.jar>nexus-aliyun=
 maven-clean-plugin-3.1.0.jar>alimaven=
 maven-clean-plugin-3.1.0.pom>alimaven=
+maven-clean-plugin-3.1.0.pom>nexus-aliyun=

@@ -24,7 +24,7 @@ public class UserServiceImpl implements UserService {
             userDao.save(registerUser);
 
             //3.发送邮箱验证码
-            String content = "<a href='http://localhost:8080/travel/activeUserServlet?code="+code+"'>点击验证</a>";
+            String content = "<a href='http://localhost:8080/travel/user/active?code="+code+"'>点击验证</a>";
             MailUtils.sendMail(registerUser.getEmail(), content, "账号激活");
         }
 
