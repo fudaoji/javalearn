@@ -177,6 +177,7 @@
                     item.find('.title').html(route.rname);
                     item.find('.desc').html(route.routeIntroduce);
                     item.find('.price_num .number').html(route.price);
+                    item.find('.price a').attr('href', 'route_detail.html?rid=' + route.rid);
                     item.fadeIn(500).appendTo($("#route-list"));
                 }
 

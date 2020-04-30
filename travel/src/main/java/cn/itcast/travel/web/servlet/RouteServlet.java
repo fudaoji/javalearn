@@ -15,6 +15,27 @@ import java.io.IOException;
 public class RouteServlet extends BaseServlet {
     private RouteService routeService = new RouteServiceImpl();
 
+    /**
+     * 获取单个路线详情
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
+    public void findOne(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        int rid = Integer.parseInt(request.getParameter("rid"));
+
+        Route route = routeService.findOne(rid);
+        this.jsonReturn(route, response);
+    }
+
+    /**
+     * 路线列表
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
     public void page(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //1.接收参数
         String currentPageStr = request.getParameter("currentPage");

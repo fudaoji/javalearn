@@ -65,4 +65,10 @@ public class RouteDaoImpl implements RouteDao {
         }catch (Exception e){ }
         return list;
     }
+
+    @Override
+    public Route findOne(int rid) {
+        String sql = "select *  from " + table + " where rid = ?";
+        return template.queryForObject(sql, new BeanPropertyRowMapper<Route>(Route.class), rid);
+    }
 }

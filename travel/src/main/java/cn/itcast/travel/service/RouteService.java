@@ -13,4 +13,11 @@ public interface RouteService {
      * @return
      */
     public PageBean<Route> page(int cid, int currentPage, int pageSize, String searchKey);
+
+    /**
+     * get route by rid
+     * @param rid
+     * @return
+     */
+    Route findOne(int rid);
 }
