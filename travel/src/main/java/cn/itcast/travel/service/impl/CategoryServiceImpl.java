@@ -23,9 +23,10 @@ public class CategoryServiceImpl implements CategoryService {
         List<Category> cs = new ArrayList<>();
         Jedis jedis = JedisUtil.getJedis();
         String cacheKey = "categoryList";
-
+        System.out.println("准备访问jedis");
         //1、查询redis中的数据
         Set<Tuple> categoryList = jedis.zrangeWithScores(cacheKey, 0, -1);
+        System.out.println("访问jedis结束");
         //2、redis中不存在则查询数据库，并把数据写入到redis
         if(categoryList == null || categoryList.size() == 0){
             cs = categoryDao.findAll();

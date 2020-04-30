@@ -22,7 +22,7 @@
                 <a href="/"><img src="images/logo.jpg" alt=""></a>
             </div>
             <div class="search">
-                <input name="" type="text" placeholder="请输入路线名称" class="search_input" autocomplete="off">
+                <input type="text" placeholder="请输入路线名称" class="search_input">
                 <a href="javascript:;" class="search-button">搜索</a>
             </div>
             <div class="hottel">
@@ -41,16 +41,6 @@
 <!-- 首页导航 -->
 <div class="navitem">
     <ul class="nav">
-        <li class="nav-active"><a href="index.html">首页</a></li>
-        <li><a href="route_list.html">门票</a></li>
-        <li><a href="route_list.html">酒店</a></li>
-        <li><a href="route_list.html">香港车票</a></li>
-        <li><a href="route_list.html">出境游</a></li>
-        <li><a href="route_list.html">国内游</a></li>
-        <li><a href="route_list.html">港澳游</a></li>
-        <li><a href="route_list.html">抱团定制</a></li>
-        <li><a href="route_list.html">全球自由行</a></li>
-        <li><a href="favoriterank.html">收藏排行榜</a></li>
     </ul>
 </div>
 <script>
@@ -68,16 +58,39 @@
         }, 'json');
     };
     var getCategory = function(){
-        $.post('category/findAll', null, function (res) {
-            var html = '<li class="nav-active"><a href="index.html">首页</a></li>';
-            for (var i=0; i<res.length; i++){
-                html += '<li><a href="route_list.html?cid='+res[i].cid+'">'+res[i].cname+'</a></li>';
+        var pathname = location.pathname,
+            activeClass = 'nav-active';
+
+        if(pathname.indexOf('route_list') !== -1){
+            var cid = $.getParams('cid');
+            if(typeof cid === "string"){
+                cid = parseInt(cid);
+            }else{
+                cid = 0;
             }
-            html += '<li><a href="favoriterank.html">收藏排行榜</a></li>';
+        }
+
+        $.post('category/findAll', null, function (res) {
+            var html = '<li class="'+(pathname.indexOf('index') === -1 ? '' : activeClass)+'"><a href="index.html">首页</a></li>';
+            for (var i=0; i<res.length; i++){
+                html += '<li class="'+( cid > 0 && cid===res[i].cid ? activeClass : '' )+'"><a href="route_list.html?cid='+res[i].cid+'">'+res[i].cname+'</a></li>';
+            }
+            html += '<li class="'+(pathname.indexOf('favoriterank') === -1 ? '' : activeClass)+'"><a href="favoriterank.html">收藏排行榜</a></li>';
             $('.nav').html(html);
         }, 'json');
     };
+
     $(function () {
+        var searchKey = $.getParams('searchKey');
+        if(typeof searchKey === 'string'){
+            $('.search_input').val(decodeURIComponent(searchKey));
+        }
+        $('.search-button').on('click', function () {
+            var cid = $.getParams('cid'),
+                searchKey = $('.search_input').val();
+            cid = typeof cid === "string" ? parseInt(cid) : 0;
+            location.href = location.origin + "/travel/route_list.html?searchKey=" + searchKey + (cid > 0 ? ("&cid=" + cid) : '');
+        });
         getCategory();
         getUserInfo();
     });

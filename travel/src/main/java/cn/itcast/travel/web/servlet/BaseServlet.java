@@ -1,5 +1,7 @@
 package cn.itcast.travel.web.servlet;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+
 import javax.servlet.ServletException;
 
 import javax.servlet.http.HttpServlet;
@@ -38,5 +40,18 @@ public class BaseServlet extends HttpServlet {
         } catch (InvocationTargetException e) {
             e.printStackTrace();
         }
+    }
+
+    /**
+     * ajax返回
+     * @param info
+     * @param response
+     * @throws IOException
+     */
+    protected void jsonReturn(Object info, HttpServletResponse response) throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        String json = mapper.writeValueAsString(info);
+        response.setContentType("application/json; charset=utf-8"); //也可直接前端约束json传输
+        response.getWriter().write(json);
     }
 }
