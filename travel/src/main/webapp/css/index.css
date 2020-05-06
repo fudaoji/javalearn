@@ -1,3 +1,5 @@
+#banner .carousel-inner .item {text-align: center;}
+#banner .carousel-inner .item img {margin: 0 auto;}
 .search_input {
 	height: 40px;
 }
@@ -23,7 +25,7 @@
 }
 .jx_tit, .jx_tabs {
 	float: left;
-	
+
 }
 .jx_tit {
 	width:100px;
@@ -43,12 +45,12 @@
 .jx_tabs li {
 	float: left;
 	height: 35px;
-	position: relative;			
+	position: relative;
 }
 .jx_tabs li span{
 	display: inline-block;
     width: 110px;
-    height: 33px;  
+    height: 33px;
     border: 1px solid #f0f0f0;
     border-bottom: none;
     transform: skew(-30deg);
@@ -59,7 +61,8 @@
     line-height: 35px;
     text-align: center;
     position: absolute;
-    top: 0px;
+    top: 0;
+	left: 0;
     z-index: 99;
     text-decoration: none;
     color: #000;
@@ -79,9 +82,9 @@
 }
 .jx_content a, .guone_r a{
 	text-decoration: none;
-	display: block;	
+	display: block;
 }
-.jx_content .has_border, .guone_r .has_border{		
+.jx_content .has_border, .guone_r .has_border{
 	border: 1px solid #eee;
 	padding: 0 6px;
 }
@@ -90,7 +93,7 @@
     padding-right: 11px;
     font-size: 14px;
     color: #000;
-    line-height: 24px;   
+    line-height: 24px;
     overflow: hidden;
     font-weight: normal;
     background-color: #fff;
@@ -130,7 +133,7 @@
 	width: 100%;
     overflow: hidden;
 }
-.guonei_l, 
+.guonei_l,
 .guone_r {
 	float: left;
 }
@@ -151,7 +154,7 @@
 
 .fl {
 	float: left;
-	
+
 }
 
 

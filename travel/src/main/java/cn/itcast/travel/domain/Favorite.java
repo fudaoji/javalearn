@@ -7,8 +7,36 @@ import java.io.Serializable;
  */
 public class Favorite implements Serializable {
     private Route route;//旅游线路对象
+    private Integer rid;//旅游线路id
     private String date;//收藏时间
     private User user;//所属用户
+    private Integer uid;//用户id
+
+    public Integer getRid() {
+        return rid;
+    }
+
+    public void setRid(Integer rid) {
+        this.rid = rid;
+    }
+
+    public Integer getUid() {
+        return uid;
+    }
+
+    public void setUid(Integer uid) {
+        this.uid = uid;
+    }
+
+    private Integer status;  //收藏状态
+
+    public Integer getStatus() {
+        return status;
+    }
+
+    public void setStatus(Integer status) {
+        this.status = status;
+    }
 
     /**
      * 无参构造方法

@@ -2,6 +2,7 @@ package cn.itcast.travel.dao.impl;
 
 import cn.itcast.travel.dao.CategoryDao;
 import cn.itcast.travel.domain.Category;
+import cn.itcast.travel.domain.Route;
 import cn.itcast.travel.util.JDBCUtils;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -27,5 +28,16 @@ public class CategoryDaoImpl implements CategoryDao {
             list = template.query(sql, new BeanPropertyRowMapper<Category>(Category.class));
         }catch (Exception e){ };
         return list;
+    }
+
+    /**
+     * 根据查找数据
+     * @param cid
+     * @return
+     */
+    @Override
+    public Category findOne(int cid) {
+        String sql = "select *  from " + table + " where cid = ?";
+        return template.queryForObject(sql, new BeanPropertyRowMapper<Category>(Category.class), cid);
     }
 }

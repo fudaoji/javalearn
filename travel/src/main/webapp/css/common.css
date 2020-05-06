@@ -244,6 +244,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .why_select {
+    width: 90%;
     overflow: hidden;
     margin: 0 auto;
     border-bottom: solid 1px #666;
@@ -252,6 +253,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .why_select dl {
+    width: 25%;
     float: left;
     margin-bottom: 0;
 }

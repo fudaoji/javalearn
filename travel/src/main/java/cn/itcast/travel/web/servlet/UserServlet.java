@@ -107,6 +107,7 @@ public class UserServlet extends BaseServlet {
             sessionUser.setUsername(u.getUsername());
             sessionUser.setName(u.getName());
             sessionUser.setEmail(u.getEmail());
+            sessionUser.setUid(u.getUid());
             request.getSession().setAttribute("user", sessionUser);
         }
 

@@ -22,7 +22,6 @@ public class CategoryServlet extends BaseServlet {
      * @throws IOException
      */
     public void findAll(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        System.out.println("访问category/findAll");
         List<Category> list = categoryService.findAll();
         this.jsonReturn(list, response);
     }

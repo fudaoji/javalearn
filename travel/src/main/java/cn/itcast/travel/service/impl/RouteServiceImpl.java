@@ -1,15 +1,14 @@
 package cn.itcast.travel.service.impl;
 
+import cn.itcast.travel.dao.CategoryDao;
 import cn.itcast.travel.dao.RouteDao;
 import cn.itcast.travel.dao.RouteImgDao;
 import cn.itcast.travel.dao.SellerDao;
+import cn.itcast.travel.dao.impl.CategoryDaoImpl;
 import cn.itcast.travel.dao.impl.RouteDaoImpl;
 import cn.itcast.travel.dao.impl.RouteImgDaoImpl;
 import cn.itcast.travel.dao.impl.SellerDaoImpl;
-import cn.itcast.travel.domain.PageBean;
-import cn.itcast.travel.domain.Route;
-import cn.itcast.travel.domain.RouteImg;
-import cn.itcast.travel.domain.Seller;
+import cn.itcast.travel.domain.*;
 import cn.itcast.travel.service.RouteService;
 
 import java.util.ArrayList;
@@ -19,6 +18,7 @@ public class RouteServiceImpl implements RouteService {
     RouteDao routeDao = new RouteDaoImpl();
     RouteImgDao routeImgDao = new RouteImgDaoImpl();
     SellerDao sellerDao = new SellerDaoImpl();
+    CategoryDao categoryDao = new CategoryDaoImpl();
 
     /**
      * 分页查询某分类的路线
@@ -65,6 +65,11 @@ public class RouteServiceImpl implements RouteService {
         Seller seller = sellerDao.findOne(route.getSid());
         if(seller != null){
             route.setSeller(seller);
+        }
+        // 4.get category info from category by cid
+        Category category = categoryDao.findOne(route.getCid());
+        if(category != null){
+            route.setCategory(category);
         }
         return route;
     }

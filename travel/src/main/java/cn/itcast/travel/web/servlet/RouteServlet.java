@@ -1,8 +1,9 @@
 package cn.itcast.travel.web.servlet;
 
-import cn.itcast.travel.domain.PageBean;
-import cn.itcast.travel.domain.Route;
+import cn.itcast.travel.domain.*;
+import cn.itcast.travel.service.FavoriteService;
 import cn.itcast.travel.service.RouteService;
+import cn.itcast.travel.service.impl.FavoriteServiceImpl;
 import cn.itcast.travel.service.impl.RouteServiceImpl;
 
 import javax.servlet.ServletException;
@@ -14,6 +15,61 @@ import java.io.IOException;
 @WebServlet("/route/*")
 public class RouteServlet extends BaseServlet {
     private RouteService routeService = new RouteServiceImpl();
+    private FavoriteService favoriteService = new FavoriteServiceImpl();
+
+    /**
+     * 收藏/取消收藏
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
+    public void doFavorite(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+        String ridStr = request.getParameter("rid");
+        int rid = 0;
+        if(ridStr != null){
+            rid = Integer.parseInt(ridStr);
+        }
+        ResultInfo resultInfo = new ResultInfo(false);
+        User user = (User) request.getSession().getAttribute("user");
+        if(user != null){
+            //1. get favorite by uid and rid
+            Favorite favorite = favoriteService.doFavorite(rid, user.getUid());
+            //2. return favorite if it exists
+            if(favorite != null){
+                resultInfo.setFlag(true);
+                resultInfo.setData(favorite);
+            }
+        }
+        this.jsonReturn(resultInfo, response);
+    }
+
+    /**
+     * 是否收藏
+     * @param request
+     * @param response
+     * @throws ServletException
+     * @throws IOException
+     */
+    public void isFavorite(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+        String ridStr = request.getParameter("rid");
+        int rid = 0;
+        if(ridStr != null){
+            rid = Integer.parseInt(ridStr);
+        }
+        ResultInfo resultInfo = new ResultInfo(false);
+        User user = (User) request.getSession().getAttribute("user");
+        if(user != null){
+            //1. get favorite by uid and rid
+            Favorite favorite = favoriteService.isFavorite(rid, user.getUid());
+            //2. return favorite if it exists
+            if(favorite != null){
+                resultInfo.setFlag(true);
+                resultInfo.setData(favorite);
+            }
+        }
+        this.jsonReturn(resultInfo, response);
+    }
 
     /**
      * 获取单个路线详情

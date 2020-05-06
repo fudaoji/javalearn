@@ -44,11 +44,13 @@
     </ul>
 </div>
 <script>
+    window.userInfo = null;
     /**
      * 获取用户信息
      */
     var getUserInfo = function(){
         $.post('user/findOne', null, function (res) {
+            window.userInfo = res.data;
             if(res.flag){
                 $('.login').removeClass('hide');
                 $('.username').text(res.data.name);
