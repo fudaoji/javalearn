@@ -158,9 +158,14 @@
         var data = {rid: $.getParams('rid')};
         $.post('route/doFavorite', data, function (res) {
             isCollect = res.data;
-            if(res.flag && res.data != null){
-                $('.collect .has-favorite').removeClass('hide');
-                $('.collect .already').addClass('hide');
+            if(res.flag && isCollect != null){
+                if(isCollect.status === 1){
+                    $('.collect .has-favorite').removeClass('hide');
+                    $('.collect .already').addClass('hide');
+                }else{
+                    $('.collect .has-favorite').addClass('hide');
+                    $('.collect .already').removeClass('hide');
+                }
             }else{
                 alert('系统出错，请刷新重试');
             }

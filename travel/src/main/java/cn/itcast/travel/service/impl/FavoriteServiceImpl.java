@@ -39,8 +39,7 @@ public class FavoriteServiceImpl implements FavoriteService {
         }else{
             //编辑
             favorite.setStatus(Math.abs(favorite.getStatus() - 1));
-            System.out.println(favorite); return  favorite;
-            //favoriteDao.set(favorite);
+            favoriteDao.set(favorite);
         }
         return favorite;
     }

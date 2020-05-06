@@ -9,7 +9,7 @@ public interface FavoriteDao {
      * @param uid
      * @return
      */
-    public FavoriteDao getByUidCid(int rid, int uid);
+    public Favorite getByUidCid(int rid, int uid);
 
     /**
      * 新增

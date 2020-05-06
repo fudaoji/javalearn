@@ -22,11 +22,11 @@ public class FavoriteDaoImpl implements FavoriteDao {
      * @return
      */
     @Override
-    public FavoriteDao getByUidCid(int rid, int uid) {
-        FavoriteDao favorite = null;
+    public Favorite getByUidCid(int rid, int uid) {
+        Favorite favorite = null;
         try {
             String sql = "select * from " + this.table +" where rid=? and uid=? ";
-            favorite = template.queryForObject(sql, new BeanPropertyRowMapper<FavoriteDao>(FavoriteDao.class), rid, uid);
+            favorite = template.queryForObject(sql, new BeanPropertyRowMapper<Favorite>(Favorite.class), rid, uid);
         }catch (DataAccessException e){
             //e.printStackTrace();
         }
