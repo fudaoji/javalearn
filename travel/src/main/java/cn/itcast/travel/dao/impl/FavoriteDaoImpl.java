@@ -55,4 +55,16 @@ public class FavoriteDaoImpl implements FavoriteDao {
         String sql = "update " + this.table + " set status=? where rid=? and uid=?";
         template.update(sql, favorite.getStatus(), favorite.getRid(), favorite.getUid());
     }
+
+    /**
+     * 根据rid
+     *
+     * @param rid
+     * @return
+     */
+    @Override
+    public int findCountByRid(int rid) {
+        String sql = "select count(*) from " + this.table + " where rid=?";
+        return  template.queryForObject(sql, Integer.class, rid);
+    }
 }

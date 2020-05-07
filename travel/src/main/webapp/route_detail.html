@@ -40,7 +40,7 @@
                 <p class="collect">
                     <a class="btn hide has-favorite"><i class="glyphicon glyphicon-heart"></i>取消收藏</a>
                     <a  class="btn already"><i class="glyphicon glyphicon-heart-empty"></i>点击收藏</a>
-                    <span>已收藏100次</span>
+                    <span class="collect-num">已收藏100次</span>
                 </p>
             </div>
         </div>
@@ -126,6 +126,7 @@
             $('#consphone').html(route.seller.consphone);
             $('#address').html(route.seller.address);
             $('#price').html('¥'+route.price);
+            $('.collect-num').html('已收藏'+route.count+'次');
 
             var ddStr = '<a class="up_img up_img_disable"></a>';
             for (let i = 0; i < route.routeImgList.length; i++) {

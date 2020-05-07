@@ -1,13 +1,7 @@
 package cn.itcast.travel.service.impl;
 
-import cn.itcast.travel.dao.CategoryDao;
-import cn.itcast.travel.dao.RouteDao;
-import cn.itcast.travel.dao.RouteImgDao;
-import cn.itcast.travel.dao.SellerDao;
-import cn.itcast.travel.dao.impl.CategoryDaoImpl;
-import cn.itcast.travel.dao.impl.RouteDaoImpl;
-import cn.itcast.travel.dao.impl.RouteImgDaoImpl;
-import cn.itcast.travel.dao.impl.SellerDaoImpl;
+import cn.itcast.travel.dao.*;
+import cn.itcast.travel.dao.impl.*;
 import cn.itcast.travel.domain.*;
 import cn.itcast.travel.service.RouteService;
 
@@ -19,6 +13,7 @@ public class RouteServiceImpl implements RouteService {
     RouteImgDao routeImgDao = new RouteImgDaoImpl();
     SellerDao sellerDao = new SellerDaoImpl();
     CategoryDao categoryDao = new CategoryDaoImpl();
+    FavoriteDao favoriteDao = new FavoriteDaoImpl();
 
     /**
      * 分页查询某分类的路线
@@ -71,6 +66,9 @@ public class RouteServiceImpl implements RouteService {
         if(category != null){
             route.setCategory(category);
         }
+        // 5.get collected number of route
+        int count = favoriteDao.findCountByRid(rid);
+        route.setCount(count);
         return route;
     }
 }

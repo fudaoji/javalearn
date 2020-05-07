@@ -23,4 +23,11 @@ public interface FavoriteDao {
      * @param favorite
      */
     void set(Favorite favorite);
+
+    /**
+     * 根据rid
+     * @param rid
+     * @return
+     */
+    int findCountByRid(int rid);
 }

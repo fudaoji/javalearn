@@ -42,6 +42,7 @@ public class CategoryServiceImpl implements CategoryService {
                 cs.add(category);
             }
         }
+        jedis.close(); //释放连接
         return cs;
     }
 }

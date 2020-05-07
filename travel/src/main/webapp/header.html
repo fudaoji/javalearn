@@ -91,7 +91,7 @@
             var cid = $.getParams('cid'),
                 searchKey = $('.search_input').val();
             cid = typeof cid === "string" ? parseInt(cid) : 0;
-            location.href = location.origin + "/travel/route_list.html?searchKey=" + searchKey + (cid > 0 ? ("&cid=" + cid) : '');
+            location.href = "route_list.html?searchKey=" + searchKey + (cid > 0 ? ("&cid=" + cid) : '');
         });
         getCategory();
         getUserInfo();
