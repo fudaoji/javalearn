@@ -29,6 +29,7 @@ gen/
 
 #module config files
 *.iml
+*.log
   
 # Eclipse project files  
 .classpath  
