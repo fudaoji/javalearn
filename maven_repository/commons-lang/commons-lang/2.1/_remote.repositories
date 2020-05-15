@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Apr 27 14:22:34 CST 2020
+#Sat May 09 14:43:24 CST 2020
+commons-lang-2.1.jar>nexus-aliyun=
 commons-lang-2.1.jar>central=
 commons-lang-2.1.pom>central=
 commons-lang-2.1.pom>alimaven=

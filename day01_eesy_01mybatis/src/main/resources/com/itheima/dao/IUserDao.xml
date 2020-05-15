@@ -7,4 +7,26 @@
     <select id="findAll" resultType="com.itheima.domain.User">
         select * from user
     </select>
+
+    <!--根据id获取单条数据-->
+    <select id="findOne" parameterType="Integer" resultType="com.itheima.domain.User">
+        select * from user where id=#{id}
+    </select>
+
+    <!--保存用户信息-->
+    <insert id="save" parameterType="com.itheima.domain.User">
+        <selectKey keyProperty="id" keyColumn="id" resultType="int">
+            select last_insert_id()
+        </selectKey>
+        insert into user(username,birthday,sex,address) values (#{username}, #{birthday}, #{sex}, #{address})
+    </insert>
+
+    <!--更新用户信息-->
+    <update id="update" parameterType="com.itheima.domain.User">
+        update user set username=#{username},birthday=#{birthday},sex=#{sex},address=#{address} where id=#{id}
+    </update>
+    <!--删除用户-->
+    <delete id="delete" parameterType="Integer">
+        delete from user where id=#{id}
+    </delete>
 </mapper>

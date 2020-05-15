@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Thu Mar 30 20:29:31 CST 2017
-maven-jar-plugin-2.4.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 09 14:43:23 CST 2020
 maven-jar-plugin-2.4.pom>central=
+maven-jar-plugin-2.4.jar>central=
+maven-jar-plugin-2.4.jar>nexus-aliyun=
+maven-jar-plugin-2.4.pom>nexus-aliyun=

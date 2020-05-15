@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu May 07 23:44:07 CST 2020
+#Sat May 09 14:43:19 CST 2020
 mybatis-parent-29.pom>central=
+mybatis-parent-29.pom>nexus-aliyun=
 mybatis-parent-29.pom>alimaven=
